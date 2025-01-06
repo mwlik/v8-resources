@@ -125,4 +125,4 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
 
-P.S.S: The articles listed below are included solely for their technical content; the views, backgrounds, or actions of the authors do not reflect my endorsement.
+P.S.S: The articles listed above are included solely for their technical content; the views, backgrounds, or actions of the authors do not reflect my endorsement.
