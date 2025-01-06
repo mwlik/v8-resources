@@ -126,4 +126,5 @@ Feel free to fork them and make you're progress reading wise 👍.
 - https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit ✅
 
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
+
 P.S.S: The articles listed below are included solely for their technical content; the views, backgrounds, or actions of the authors do not reflect my endorsement.
