@@ -62,14 +62,12 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 - https://www.researchgate.net/publication/374470404_IR_JIT_Framework_a_base_for_the_next_generation_JIT_for_PHP
 - https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg
 - https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/
-- https://github.com/danbev/learning-v8
 - https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md ✅
 - https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html
 - https://bnovkebin.github.io/blog/CVE-2024-0517/
 - https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737
 - https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf
 - https://arxiv.org/pdf/2402.12222
-- https://hackernoon.com/u/huidou
 - https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/
 - https://s1r1us.ninja/posts/v8-rca/
@@ -115,6 +113,12 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 - https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/
 - https://chovid99.github.io/posts/asis-ctf-finals-2023/
 - https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/ ✅
+
+## Wikis
+
+- https://github.com/thlorenz/v8-perf
+- https://github.com/danbev/learning-v8
+- https://hackernoon.com/u/huidou
 
 ## Additional
 
