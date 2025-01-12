@@ -50,6 +50,7 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 - https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko/edit#heading=h.xzptrog8pyxf
 - https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf ✅
 - https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg/edit?tab=t.0#heading=h.jze71gh7nl1w ✅
+- https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA
 - https://v8.dev/blog/elements-kinds ✅
 - https://v8.dev/docs/stack-trace-api ✅
 - https://v8.dev/docs/torque
@@ -72,6 +73,7 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 - https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/
 - https://s1r1us.ninja/posts/v8-rca/
 - https://github.com/v8mips/v8mips/wiki/Javascript-and-v8-design-resources
+- https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit
 
 ## Talks & Presentations
 
