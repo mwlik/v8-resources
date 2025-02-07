@@ -4,8 +4,8 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 
 ## Articles
 
-- http://phrack.org/issues/70/9.html#article ✅
-- http://phrack.org/issues/71/10.html#article
+- [Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
+- [Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
 - https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html ✅
 - https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html ✅
 - https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html ✅
