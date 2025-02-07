@@ -38,94 +38,93 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
 - [V8 Heap pwn and /dev/memes - WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
 - [From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) ✅
-- https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282
-- https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit?tab=t.0#heading=h.9ss45aibqpw2
-- https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf ✅
-- https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/edit#heading=h.xzptrog8pyxf ✅
-- https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/edit#heading=h.xzptrog8pyxf
-- https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/edit#heading=h.xzptrog8pyxf ✅
-- https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM/edit#heading=h.xzptrog8pyxf
-- https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko/edit#heading=h.xzptrog8pyxf
-- https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf ✅
-- https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg/edit?tab=t.0#heading=h.jze71gh7nl1w ✅
-- https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA
-- https://v8.dev/blog/elements-kinds ✅
-- https://v8.dev/docs/stack-trace-api ✅
-- https://v8.dev/docs/torque
-- https://v8.dev/blog/control-flow-integrity ✅
-- https://v8.dev/blog/sandbox ✅
-- https://v8.dev/blog/embedded-builtins
-- https://v8.dev/docs/builtin-functions ✅
-- https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/ ✅
-- https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript
-- https://www.researchgate.net/publication/374470404_IR_JIT_Framework_a_base_for_the_next_generation_JIT_for_PHP
-- https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg
-- https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/
-- https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md ✅
-- https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html
-- https://bnovkebin.github.io/blog/CVE-2024-0517/
-- https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737
-- https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf
-- https://arxiv.org/pdf/2402.12222
-- https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/
-- https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/
-- https://s1r1us.ninja/posts/v8-rca/
-- https://github.com/v8mips/v8mips/wiki/Javascript-and-v8-design-resources
-- https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit
+- [Understand WebAssembly in One Article](https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282)
+- [Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit?tab=t.0#heading=h.9ss45aibqpw2)
+- [V8 Sandbox](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf) ✅
+- [V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/edit#heading=h.xzptrog8pyxf) ✅
+- [V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/edit#heading=h.xzptrog8pyxf)
+- [V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k/edit#heading=h.xzptrog8pyxf) ✅
+- [V8 Sandbox - Trusted Space](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM/edit#heading=h.xzptrog8pyxf)
+- [V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko/edit#heading=h.xzptrog8pyxf)
+- [V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf) ✅
+- [Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg/edit?tab=t.0#heading=h.jze71gh7nl1w) ✅
+- [V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
+- [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
+- [Stack trace API](https://v8.dev/docs/stack-trace-api) ✅
+- [V8 Torque user manual](https://v8.dev/docs/torque)
+- [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) ✅
+- [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
+- [Embedded builtins](https://v8.dev/blog/embedded-builtins)
+- [Built-in functions](https://v8.dev/docs/builtin-functions) ✅
+- [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
+- [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
+- [IR JIT Framework a base for the next generation JIT for PHP](https://www.researchgate.net/publication/374470404_IR_JIT_Framework_a_base_for_the_next_generation_JIT_for_PHP)
+- [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
+- [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
+- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
+- [CVE-2024-0517 Chrome V8 Out of Bounds Write](https://bnovkebin.github.io/blog/CVE-2024-0517/)
+- [CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
+- [Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
+- [CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
+- [CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
+- [Don't Follow The Masses: Bug Hunting in JavaScript Engines](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
+- [V8 CVE-2021-21224 Renderer RCE Root Cause Analysis](https://s1r1us.ninja/posts/v8-rca/)
+- [Overview of WebAssembly Type Confusion in JavaScript Engines Exploitation](https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit)
 
 ## Talks & Presentations
 
-- https://www.youtube.com/watch?v=m6Fpc3zxrJg ✅
-- https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k ✅
-- https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2 ✅
-- https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf ✅
-- https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf ✅
-- https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf
-- https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc/edit#slide=id.p
-- https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM/edit#slide=id.p
-- https://youtu.be/hmhJBRknGSk?si=L99PITOlfBaO8oL-
-- https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf
-- https://www.youtube.com/live/VwWPzRceCgs?si=6oP3o1De9Cqaa_Cs&t=5821 ✅
-- https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt
-- https://youtu.be/cTvbFGhcTgs?si=c_-kCKBZS9n9LpgN
-- https://www.youtube.com/watch?v=ctKCfXOgZ-M
-- https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf
-- https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf
-- https://youtu.be/_Iv6fBrcbAM?feature=shared ✅
+- [HackTheBox - Rope2](https://www.youtube.com/watch?v=m6Fpc3zxrJg) ✅
+- [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
+- [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
+- [Attacking Turbofan TyphoonCon 2019 - Seoul](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf) ✅
+- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
+- [Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
+- [TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc/edit#slide=id.p)
+- [Turbofan IR](https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM/edit#slide=id.p)
+- [WebAssembly Is All You Need - Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf)
+- [Chrome Browser Exploitation: from zero to heap sandbox escape](https://www.youtube.com/live/VwWPzRceCgs?si=6oP3o1De9Cqaa_Cs&t=5821) ✅
+- [OffensiveCon24 - Samuel Groß - The V8 Heap Sandbox](https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt)
+- [Attacking V8, Ayman - BSides Canberra 2024](https://youtu.be/cTvbFGhcTgs?si=c_-kCKBZS9n9LpgN)
+- [Introduction to JavaScript and V8 for Browser Exploitation](https://www.youtube.com/watch?v=ctKCfXOgZ-M)
+- [Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
+- [Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
+- [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 
 ## CTFs Writeups
 
-- https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/ ✅
-- https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html ✅
-- https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/ ✅
-- https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/ ✅
-- https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html ✅
-- https://www.jaybosamiya.com/blog/2019/01/02/krautflare/
-- https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/
-- https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/
-- https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md
-- https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/ ✅
-- https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html
-- https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html
-- https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html
-- https://ju256.de/posts/kitctfctf22-date/ ✅
-- https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution ✅
-- https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/
-- https://chovid99.github.io/posts/asis-ctf-finals-2023/
-- https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/ ✅
+- [Exploiting v8: \*CTF 2019 oob-v8](https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/) ✅
+- [DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html) ✅
+- [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/) ✅
+- [Introduction to TurboFan](https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/) ✅
+- [Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html) ✅
+- [Exploiting Chrome V8: Krautflare (35C3 CTF 2018)](https://www.jaybosamiya.com/blog/2019/01/02/krautflare/)
+- [Exploiting the Math.expm1 typing bug in V8](https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/)
+- [Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
+- [openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
+- [DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) ✅
+- [Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
+- [Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
+- [Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
+- [KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) ✅
+- [Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) ✅
+- [HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
+- [ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
+- [BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) ✅
 
 ## Wikis
 
-- https://github.com/thlorenz/v8-perf
-- https://github.com/danbev/learning-v8
-- https://hackernoon.com/u/huidou
+- [v8-perf](https://github.com/thlorenz/v8-perf)
+- [learning-v8](https://github.com/danbev/learning-v8)
+- [Understanding Chrome V8](https://hackernoon.com/u/huidou)
+- [Javascript and v8 design resources](https://github.com/v8mips/v8mips/wiki/Javascript-and-v8-design-resources)
+- [Index of chromium-browser-snapshots/](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
 
 ## Additional
 
-- https://stackoverflow.com/questions/tagged/v8
-- https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1
-- https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1
-- https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit ✅
+- [v8 - stackoverflow](https://stackoverflow.com/questions/tagged/v8)
+- [issues.chromium.org status:open type:vulnerability](https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1)
+- [issues.chromium.org V8 sandbox hotlist](https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1)
+- [V8 gdbinit](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit) ✅
 
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
 
