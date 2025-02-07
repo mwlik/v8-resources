@@ -6,40 +6,38 @@ These are some resources I've gathered while trying to learn v8 internals (with 
 
 - [Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
 - [Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
-- https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html ✅
-- https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html ✅
-- https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html ✅
-- https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775 ✅
-- https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html ✅
-- https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html ✅
-- https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html ✅
-- https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188 ✅
-- https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html
-- https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf
-- https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/
-- https://github.blog/security/vulnerability-research/the-chromium-super-inline-cache-type-confusion/
-- https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/
-- https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/
-- https://github.blog/security/vulnerability-research/getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/
-- https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/
-- https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
-- https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/
-- https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/
-- https://blog.exodusintel.com/2019/01/22/exploiting-the-magellan-bug-on-64-bit-chrome-desktop/
-- https://darksi.de/d.sea-of-nodes/
-- https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/
-- https://doar-e.github.io/blog/2019/05/09/circumventing-chromes-hardening-of-typer-bugs/
-- https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome
-- https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
-- https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/ ✅
-- https://anvbis.au/posts/root-cause-analysis-of-cve-2021-21224/
-- https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/
-- https://tiszka.com/blog/CVE_2021_21225.html
-- https://tiszka.com/blog/CVE_2021_21225_exploit.html
-- https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition
-- https://jhalon.github.io/chrome-browser-exploitation-1/
-- https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html
-- https://insuyun.github.io/publication/lee-v-8-ctf/ ✅
+- [Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) ✅
+- [Notes about GraphReducer in V8](https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html) ✅
+- [Redundancy Elimination Reducer in V8 and 34C3 CTF V9](https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html) ✅
+- [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) ✅
+- [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) ✅
+- [Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html) ✅
+- [Abusing Liftoff assembly and efficiently escaping from sbx](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html) ✅
+- [JavaScript Bytecode – v8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188) ✅
+- [In-the-Wild Series: Chrome Infinity Bug](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html)
+- [Rooting Samsung Q60T Smart TV](https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf)
+- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
+- [The Chromium super (inline cache) type confusion](https://github.blog/security/vulnerability-research/the-chromium-super-inline-cache-type-confusion/)
+- [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
+- [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
+- [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/security/vulnerability-research/getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
+- [Zooming in on CVE‑2024‑7965](https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/)
+- [Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
+- [Google Chrome V8 ArrayShift Race Condition Remote Code Execution](https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
+- [Exploiting the Magellan bug on 64-bit Chrome Desktop](https://blog.exodusintel.com/2019/01/22/exploiting-the-magellan-bug-on-64-bit-chrome-desktop/)
+- [Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
+- [Modern attacks on the Chrome browser : optimizations and deoptimizations](https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/)
+- [Circumventing Chrome's hardening of typer bugs](https://doar-e.github.io/blog/2019/05/09/circumventing-chromes-hardening-of-typer-bugs/)
+- [CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
+- [Code Execution in Chromium’s V8 Heap Sandbox](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/) ✅
+- [Root Cause Analysis of CVE-2021-21224](https://anvbis.au/posts/root-cause-analysis-of-cve-2021-21224/)
+- [Exploring Historical V8 Heap Sandbox Escapes I](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
+- [A Bug's Life: CVE-2021-21225](https://tiszka.com/blog/CVE_2021_21225.html)
+- [Exploiting CVE-2021-21225 and disabling W^X](https://tiszka.com/blog/CVE_2021_21225_exploit.html)
+- [V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
+- [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
+- [V8 Heap pwn and /dev/memes - WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
+- [From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) ✅
 - https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282
 - https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit?tab=t.0#heading=h.9ss45aibqpw2
 - https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf ✅
