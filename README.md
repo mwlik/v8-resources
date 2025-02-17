@@ -51,10 +51,12 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Stack trace API](https://v8.dev/docs/stack-trace-api) ✅
-- [V8 Torque user manual](https://v8.dev/docs/torque)
 - [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
 - [There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
-- [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa)
+- [V8 Torque user manual](https://v8.dev/docs/torque)
+- [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa) ✅
+- [CodeStubAssembler builtins](https://v8.dev/docs/csa-builtins)
+- [V8 Torque builtins](https://v8.dev/docs/torque-builtins)
 - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) ✅
 - [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
 - [Embedded builtins](https://v8.dev/blog/embedded-builtins)
