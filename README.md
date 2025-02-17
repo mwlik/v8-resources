@@ -52,6 +52,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Stack trace API](https://v8.dev/docs/stack-trace-api) ✅
 - [V8 Torque user manual](https://v8.dev/docs/torque)
+- [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa)
 - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) ✅
 - [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
 - [Embedded builtins](https://v8.dev/blog/embedded-builtins)
