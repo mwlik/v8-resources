@@ -111,6 +111,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
 - [BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) ✅
+- [corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
 
 ## Wikis
 
