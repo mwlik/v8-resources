@@ -63,7 +63,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Built-in functions](https://v8.dev/docs/builtin-functions) ✅
 - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
 - [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
-- [IR JIT Framework a base for the next generation JIT for PHP](https://www.researchgate.net/publication/374470404_IR_JIT_Framework_a_base_for_the_next_generation_JIT_for_PHP)
 - [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
 - [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
 - [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
