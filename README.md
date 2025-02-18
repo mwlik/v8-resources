@@ -62,6 +62,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
 - [Embedded builtins](https://v8.dev/blog/embedded-builtins)
 - [Built-in functions](https://v8.dev/docs/builtin-functions) ✅
+- [Investigating memory leaks](https://v8.dev/docs/memory-leaks)
 - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
 - [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
 - [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
