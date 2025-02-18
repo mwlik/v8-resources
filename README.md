@@ -75,6 +75,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Don't Follow The Masses: Bug Hunting in JavaScript Engines](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
 - [V8 CVE-2021-21224 Renderer RCE Root Cause Analysis](https://s1r1us.ninja/posts/v8-rca/)
 - [Overview of WebAssembly Type Confusion in JavaScript Engines Exploitation](https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit)
+- [Exploit Development: Browser Exploitation on Windows - Understanding Use-After-Free Vulnerabilities](https://connormcgarr.github.io/browser1/)
+- [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability](https://connormcgarr.github.io/type-confusion-part-1/)
+- [A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
 
 ## Talks & Presentations
 
