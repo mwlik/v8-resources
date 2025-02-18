@@ -51,6 +51,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Stack trace API](https://v8.dev/docs/stack-trace-api) ✅
+- [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
 - [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
 - [There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
 - [V8 Torque user manual](https://v8.dev/docs/torque)
