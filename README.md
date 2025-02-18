@@ -129,14 +129,15 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [learning-v8](https://github.com/danbev/learning-v8)
 - [Understanding Chrome V8](https://hackernoon.com/u/huidou)
 - [Javascript and v8 design resources](https://github.com/v8mips/v8mips/wiki/Javascript-and-v8-design-resources)
-- [Index of chromium-browser-snapshots/](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
+- [V8 Resources](https://mrale.ph/v8/resources.html)
 
 ## Additional
 
-- [v8 - stackoverflow](https://stackoverflow.com/questions/tagged/v8)
-- [issues.chromium.org status:open type:vulnerability](https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1)
-- [issues.chromium.org V8 sandbox hotlist](https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1)
 - [V8 gdbinit](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit) ✅
+- [v8 - stackoverflow](https://stackoverflow.com/questions/tagged/v8)
+- [issues.chromium.org V8 sandbox hotlist](https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1)
+- [issues.chromium.org status:open type:vulnerability](https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1)
+- [Index of chromium-browser-snapshots/](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
 
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
 
