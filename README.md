@@ -93,6 +93,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
 - [Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
 - [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
+- [Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9)
 
 ## CTFs Writeups
 
