@@ -79,6 +79,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Exploit Development: Browser Exploitation on Windows - Understanding Use-After-Free Vulnerabilities](https://connormcgarr.github.io/browser1/)
 - [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability](https://connormcgarr.github.io/type-confusion-part-1/)
 - [A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
+- [V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df) ✅
 
 ## Talks & Presentations
 
