@@ -16,7 +16,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [JavaScript Bytecode – v8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188) ✅
 - [In-the-Wild Series: Chrome Infinity Bug](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html)
 - [Rooting Samsung Q60T Smart TV](https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf)
-- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/)
+- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/) ✅
+- [From Leaking TheHole to Chrome Renderer RCE](https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078) ✅
 - [The Chromium super (inline cache) type confusion](https://github.blog/security/vulnerability-research/the-chromium-super-inline-cache-type-confusion/)
 - [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
@@ -80,6 +81,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability](https://connormcgarr.github.io/type-confusion-part-1/)
 - [A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
 - [V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df) ✅
+- [V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
+- [V8 Optimize: Reduce Node && Inline](https://p1umer-github-io.translate.goog/2019/07/04/V8-Optimize-Reduce-Node-Inline/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [V8 Optimize: FrameState](https://p1umer-github-io.translate.goog/2019/07/03/V8-Optimize-FrameState/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 ## Talks & Presentations
 
@@ -87,7 +91,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
 - [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
 - [Attacking Turbofan TyphoonCon 2019 - Seoul](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf) ✅
-- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
 - [Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
 - [TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc/edit#slide=id.p)
 - [Turbofan IR](https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM/edit#slide=id.p)
@@ -124,6 +127,11 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
 - [v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de)
 - [v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53)
+
+## Papers
+
+- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
+- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
 
 ## Wikis
 
