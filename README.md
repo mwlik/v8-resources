@@ -143,7 +143,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Additional
 
-- [V8 gdbinit](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit) ✅
+- [V8 debug session](https://gist.github.com/tin-z/3aff709668b36e3fc22c6a7278c639d2#file-v8_debug_session-md)
+- [V8 gdbinit](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit)
 - [v8 - stackoverflow](https://stackoverflow.com/questions/tagged/v8)
 - [issues.chromium.org V8 sandbox hotlist](https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1)
 - [issues.chromium.org status:open type:vulnerability](https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1)
