@@ -103,6 +103,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
 - [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 - [Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9)
+- [WebAssembly Is All You Need:Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
 
 ## CTFs Writeups
 
