@@ -86,8 +86,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8 Optimize: FrameState](https://p1umer-github-io.translate.goog/2019/07/03/V8-Optimize-FrameState/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 - [Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
 - [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
-- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
-- [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 - [Intro V8](https://w1redch4d.github.io/post/intro-v8/)
 - [Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
@@ -116,6 +114,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 - [Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9)
 - [WebAssembly Is All You Need:Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
+- [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 
 ## CTFs Writeups
 
@@ -145,6 +144,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 - [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
 - [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
+- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 
 ## Wikis
 
