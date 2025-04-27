@@ -84,6 +84,18 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
 - [V8 Optimize: Reduce Node && Inline](https://p1umer-github-io.translate.goog/2019/07/04/V8-Optimize-Reduce-Node-Inline/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 - [V8 Optimize: FrameState](https://p1umer-github-io.translate.goog/2019/07/03/V8-Optimize-FrameState/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
+- [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
+- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+- [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
+- [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
+- [Intro V8](https://w1redch4d.github.io/post/intro-v8/)
+- [Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
+- [Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
+- [Lexical Analysis](https://w1redch4d.github.io/post/lexical-analysis/)
+- [Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
+- [V8 Overview](https://deepwiki.com/v8/v8)
+- [Overview of Map Exploitation in v8](https://xia0.sh/blog/visit-the-map/visit-the-map)
 
 ## Talks & Presentations
 
