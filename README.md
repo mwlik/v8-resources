@@ -138,8 +138,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
 - [BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) ✅
 - [corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
-- [v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de)
-- [v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53)
+- [v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de) ✅
+- [v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53) ✅
+- [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 
 ## Papers
 
