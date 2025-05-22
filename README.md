@@ -37,7 +37,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
 - [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
 - [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
-- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
 - [Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
 - [CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
 - [Don't Follow The Masses: Bug Hunting in JavaScript Engines](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
@@ -64,6 +63,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Official Docs
 
+- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
 - [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
