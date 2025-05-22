@@ -16,30 +16,66 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [JavaScript Bytecode – v8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188) ✅
 - [In-the-Wild Series: Chrome Infinity Bug](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html)
 - [Rooting Samsung Q60T Smart TV](https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf)
-- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/) ✅
 - [From Leaking TheHole to Chrome Renderer RCE](https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078) ✅
 - [The Chromium super (inline cache) type confusion](https://github.blog/security/vulnerability-research/the-chromium-super-inline-cache-type-confusion/)
 - [Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 - [Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/security/vulnerability-research/getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
-- [Zooming in on CVE‑2024‑7965](https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/)
-- [Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
 - [Google Chrome V8 ArrayShift Race Condition Remote Code Execution](https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
 - [Exploiting the Magellan bug on 64-bit Chrome Desktop](https://blog.exodusintel.com/2019/01/22/exploiting-the-magellan-bug-on-64-bit-chrome-desktop/)
 - [Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
 - [Modern attacks on the Chrome browser : optimizations and deoptimizations](https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/)
 - [Circumventing Chrome's hardening of typer bugs](https://doar-e.github.io/blog/2019/05/09/circumventing-chromes-hardening-of-typer-bugs/)
-- [CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
 - [Code Execution in Chromium’s V8 Heap Sandbox](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/) ✅
-- [Root Cause Analysis of CVE-2021-21224](https://anvbis.au/posts/root-cause-analysis-of-cve-2021-21224/)
 - [Exploring Historical V8 Heap Sandbox Escapes I](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
-- [A Bug's Life: CVE-2021-21225](https://tiszka.com/blog/CVE_2021_21225.html)
-- [Exploiting CVE-2021-21225 and disabling W^X](https://tiszka.com/blog/CVE_2021_21225_exploit.html)
 - [V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 - [Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
 - [V8 Heap pwn and /dev/memes - WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
 - [From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) ✅
 - [Understand WebAssembly in One Article](https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282)
+- [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
+- [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
+- [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
+- [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
+- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
+- [Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
+- [CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
+- [Don't Follow The Masses: Bug Hunting in JavaScript Engines](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
+- [Overview of WebAssembly Type Confusion in JavaScript Engines Exploitation](https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit)
+- [Exploit Development: Browser Exploitation on Windows - Understanding Use-After-Free Vulnerabilities](https://connormcgarr.github.io/browser1/)
+- [A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
+- [V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df) ✅
+- [V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
+- [V8 Optimize: Reduce Node && Inline](https://p1umer-github-io.translate.goog/2019/07/04/V8-Optimize-Reduce-Node-Inline/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [V8 Optimize: FrameState](https://p1umer-github-io.translate.goog/2019/07/03/V8-Optimize-FrameState/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+- [Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
+- [Intro V8](https://w1redch4d.github.io/post/intro-v8/)
+- [Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
+- [Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
+- [Lexical Analysis](https://w1redch4d.github.io/post/lexical-analysis/)
+- [Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
+- [V8 Overview](https://deepwiki.com/v8/v8)
+- [Overview of Map Exploitation in v8](https://xia0.sh/blog/visit-the-map/visit-the-map)
+- [A Deep Dive into V8 Sandbox Escape Technique Used in In-The-Wild Exploit](https://theori.io/blog/a-deep-dive-into-v8-sandbox-escape-technique-used-in-in-the-wild-exploit)
+- [Miscellaneous Series 2 — A Script Kiddie Diary in v8 Exploit Research Part 1](https://medium.com/@INTfinitySG/miscellaneous-series-2-a-script-kiddie-diary-in-v8-exploit-research-part-1-5b0bab211f5a)
+- [Miscellaneous Series 3— A Script Kiddie Diary in v8 Exploit Research Part 2](https://medium.com/@INTfinitySG/miscellaneous-series-3-a-script-kiddie-diary-in-v8-exploit-research-part-2-585bd3f0a833)
+- [Miscellaneous Series 4— A Script Kiddie Diary in v8 Exploit Research Part 3](https://medium.com/@INTfinitySG/miscellaneous-series-4-a-script-kiddie-diary-in-v8-exploit-research-part-3-4a3ba2da256d)
+- [An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
+
+## Official Docs
+
+- [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
+- [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
+- [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
+- [There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
+- [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa) ✅
+- [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) ✅
+- [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
+- [Embedded builtins](https://v8.dev/blog/embedded-builtins)
+- [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
+- [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
+- [V8 is Faster and Safer than Ever!](https://v8.dev/blog/holiday-season-2023)
+- [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 - [Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit?tab=t.0#heading=h.9ss45aibqpw2)
 - [V8 Sandbox](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf) ✅
 - [V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w/edit#heading=h.xzptrog8pyxf) ✅
@@ -50,50 +86,30 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c/edit#heading=h.xzptrog8pyxf) ✅
 - [Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg/edit?tab=t.0#heading=h.jze71gh7nl1w) ✅
 - [V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
-- [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Stack trace API](https://v8.dev/docs/stack-trace-api) ✅
-- [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
-- [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
-- [There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
 - [V8 Torque user manual](https://v8.dev/docs/torque) ✅
-- [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa) ✅
 - [V8 Torque builtins](https://v8.dev/docs/torque-builtins)
 - [CodeStubAssembler builtins](https://v8.dev/docs/csa-builtins)
-- [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) ✅
-- [The V8 Sandbox](https://v8.dev/blog/sandbox) ✅
-- [Embedded builtins](https://v8.dev/blog/embedded-builtins)
 - [Built-in functions](https://v8.dev/docs/builtin-functions) ✅
 - [Investigating memory leaks](https://v8.dev/docs/memory-leaks)
-- [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
-- [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
-- [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
-- [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
-- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
+- [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
+- [Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit?tab=t.0#heading=h.x1cv1fi5g42q)
+
+## CVEs Walkthrough
+
+- [A Bug's Life: CVE-2021-21225](https://tiszka.com/blog/CVE_2021_21225.html)
+- [Exploiting CVE-2021-21225 and disabling W^X](https://tiszka.com/blog/CVE_2021_21225_exploit.html)
 - [CVE-2024-0517 Chrome V8 Out of Bounds Write](https://bnovkebin.github.io/blog/CVE-2024-0517/)
 - [CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
-- [Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
-- [CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
-- [CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
-- [Don't Follow The Masses: Bug Hunting in JavaScript Engines](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
 - [V8 CVE-2021-21224 Renderer RCE Root Cause Analysis](https://s1r1us.ninja/posts/v8-rca/)
-- [Overview of WebAssembly Type Confusion in JavaScript Engines Exploitation](https://xia0.sh/blog/overview-of-wasm-in-jsengine-exploit)
-- [Exploit Development: Browser Exploitation on Windows - Understanding Use-After-Free Vulnerabilities](https://connormcgarr.github.io/browser1/)
 - [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability](https://connormcgarr.github.io/type-confusion-part-1/)
-- [A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
-- [V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df) ✅
-- [V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
-- [V8 Optimize: Reduce Node && Inline](https://p1umer-github-io.translate.goog/2019/07/04/V8-Optimize-Reduce-Node-Inline/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [V8 Optimize: FrameState](https://p1umer-github-io.translate.goog/2019/07/03/V8-Optimize-FrameState/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-- [Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
-- [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
-- [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
-- [Intro V8](https://w1redch4d.github.io/post/intro-v8/)
-- [Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
-- [Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
-- [Lexical Analysis](https://w1redch4d.github.io/post/lexical-analysis/)
-- [Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
-- [V8 Overview](https://deepwiki.com/v8/v8)
-- [Overview of Map Exploitation in v8](https://xia0.sh/blog/visit-the-map/visit-the-map)
+- [TheHole New World - how a small leak will sink a great browser (CVE-2021-38003)](https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/) ✅
+- [Zooming in on CVE‑2024‑7965](https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/)
+- [Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
+- [CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
+- [Root Cause Analysis of CVE-2021-21224](https://anvbis.au/posts/root-cause-analysis-of-cve-2021-21224/)
+- [CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
+- [Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 
 ## Talks & Presentations
 
@@ -116,6 +132,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [WebAssembly Is All You Need:Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
 - [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 - [Chromium University](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
+- [Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
+- [Time-Traveling JIT Bugs](https://powerofcommunity.net/poc2022/ManfredPaul.pdf)
 
 ## CTFs Writeups
 
