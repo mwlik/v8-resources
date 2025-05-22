@@ -134,6 +134,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Chromium University](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 - [Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
 - [Time-Traveling JIT Bugs](https://powerofcommunity.net/poc2022/ManfredPaul.pdf)
+- [V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared)
+- [Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared)
 
 ## CTFs Writeups
 
@@ -161,19 +163,18 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 
-## Papers
-
-- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
-- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
-- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
-
 ## Wikis
 
 - [v8-perf](https://github.com/thlorenz/v8-perf)
 - [learning-v8](https://github.com/danbev/learning-v8)
 - [Understanding Chrome V8](https://hackernoon.com/u/huidou)
-- [Javascript and v8 design resources](https://github.com/v8mips/v8mips/wiki/Javascript-and-v8-design-resources)
 - [V8 Resources](https://mrale.ph/v8/resources.html)
+
+## Papers
+
+- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
+- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
+- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 
 ## Additional
 
