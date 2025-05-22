@@ -165,10 +165,10 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Wikis
 
-- [v8-perf](https://github.com/thlorenz/v8-perf)
-- [learning-v8](https://github.com/danbev/learning-v8)
-- [Understanding Chrome V8](https://hackernoon.com/u/huidou)
 - [V8 Resources](https://mrale.ph/v8/resources.html)
+- [Understanding Chrome V8](https://hackernoon.com/u/huidou)
+- [learning-v8](https://github.com/danbev/learning-v8)
+- [v8-perf](https://github.com/thlorenz/v8-perf)
 
 ## Papers
 
