@@ -176,15 +176,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
 - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 
-## Additional
-
-- [V8 debug session](https://gist.github.com/tin-z/3aff709668b36e3fc22c6a7278c639d2#file-v8_debug_session-md)
-- [V8 gdbinit](https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/gdbinit)
-- [v8 - stackoverflow](https://stackoverflow.com/questions/tagged/v8)
-- [issues.chromium.org V8 sandbox hotlist](https://issues.chromium.org/issues?q=hotlistid:4802478%20type:vulnerability&s=modified_time:desc&p=1)
-- [issues.chromium.org status:open type:vulnerability](https://issues.chromium.org/issues?q=status:open%20type:vulnerability&s=modified_time:desc&p=1)
-- [Index of chromium-browser-snapshots/](https://commondatastorage.googleapis.com/chromium-browser-snapshots/index.html)
-
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
 
 P.S.S: The articles listed above are included solely for their technical content; the views, backgrounds, or actions of the authors do not reflect my endorsement.
