@@ -112,29 +112,32 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
 - [Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 
-## Talks & Presentations
+## Presentations
 
-- [HackTheBox - Rope2](https://www.youtube.com/watch?v=m6Fpc3zxrJg) ✅
-- [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
-- [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
 - [Attacking Turbofan TyphoonCon 2019 - Seoul](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf) ✅
 - [Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
 - [TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc/edit#slide=id.p)
 - [Turbofan IR](https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM/edit#slide=id.p)
 - [WebAssembly Is All You Need - Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf)
+- [Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
+- [Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
+- [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
+- [Time-Traveling JIT Bugs](https://powerofcommunity.net/poc2022/ManfredPaul.pdf)
+
+## Talks
+
+- [HackTheBox - Rope2](https://www.youtube.com/watch?v=m6Fpc3zxrJg) ✅
+- [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
+- [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
 - [Chrome Browser Exploitation: from zero to heap sandbox escape](https://www.youtube.com/live/VwWPzRceCgs?si=6oP3o1De9Cqaa_Cs&t=5821) ✅
 - [OffensiveCon24 - Samuel Groß - The V8 Heap Sandbox](https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt)
 - [Attacking V8, Ayman - BSides Canberra 2024](https://youtu.be/cTvbFGhcTgs?si=c_-kCKBZS9n9LpgN)
 - [Introduction to JavaScript and V8 for Browser Exploitation](https://www.youtube.com/watch?v=ctKCfXOgZ-M)
-- [Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
-- [Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
 - [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 - [Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9)
 - [WebAssembly Is All You Need:Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
-- [CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 - [Chromium University](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 - [Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
-- [Time-Traveling JIT Bugs](https://powerofcommunity.net/poc2022/ManfredPaul.pdf)
 - [V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared)
 - [Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared)
 
