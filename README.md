@@ -64,7 +64,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Official Docs
 
-- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
 - [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
@@ -95,6 +94,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Investigating memory leaks](https://v8.dev/docs/memory-leaks)
 - [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
 - [Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit?tab=t.0#heading=h.x1cv1fi5g42q)
+- [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
 
 ## CVEs Walkthrough
 
