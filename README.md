@@ -130,7 +130,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
 - [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
 - [Chrome Browser Exploitation: from zero to heap sandbox escape](https://www.youtube.com/live/VwWPzRceCgs?si=6oP3o1De9Cqaa_Cs&t=5821) ✅
-- [OffensiveCon24 - Samuel Groß - The V8 Heap Sandbox](https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt)
+- [OffensiveCon24 - Samuel Groß - The V8 Heap Sandbox](https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt) ✅
+- [OffensiveCon23 - Samuel Groß & Carl Smith - Advancements in JavaScript Engine Fuzzing](https://youtu.be/Yd9m7e9-pG0?feature=shared)
 - [Attacking V8, Ayman - BSides Canberra 2024](https://youtu.be/cTvbFGhcTgs?si=c_-kCKBZS9n9LpgN)
 - [Introduction to JavaScript and V8 for Browser Exploitation](https://www.youtube.com/watch?v=ctKCfXOgZ-M)
 - [Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
