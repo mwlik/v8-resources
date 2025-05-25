@@ -168,18 +168,19 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 
+## Papers
+
+- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
+- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
+- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+- [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
+
 ## Wikis
 
 - [V8 Resources](https://mrale.ph/v8/resources.html)
 - [Understanding Chrome V8](https://hackernoon.com/u/huidou)
 - [learning-v8](https://github.com/danbev/learning-v8)
 - [v8-perf](https://github.com/thlorenz/v8-perf)
-
-## Papers
-
-- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
-- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
-- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 
 P.S: Note that I don't support Google, nor do I condone [Google’s support of Israel](https://www.aljazeera.com/news/2024/4/23/what-is-project-nimbus-and-why-are-google-workers-protesting-israel-deal) in its ethnic cleansing of Palestinian people. This is simply me researching an open-source project that is widely used in various applications.
 
