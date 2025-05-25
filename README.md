@@ -141,6 +141,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
 - [V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared)
 - [Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared)
+- [Off-By-One 2024 Day 1- Exploring WebKit’s Just In Time Compilation: Vignesh S Rao](https://youtu.be/9rt9ErQKnf8?feature=shared)
 
 ## CTFs Writeups
 
