@@ -66,6 +66,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
+- [Maps (Hidden Classes) in V8](https://v8.dev/docs/hidden-classes)
+- [JavaScript code coverage](https://v8.dev/blog/javascript-code-coverage)
+- [JavaScript modules](https://v8.dev/features/modules)
 - [Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
 - [There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
 - [Taming architecture complexity in V8 — the CodeStubAssembler](https://v8.dev/blog/csa) ✅
