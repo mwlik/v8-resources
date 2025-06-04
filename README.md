@@ -61,6 +61,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Miscellaneous Series 4— A Script Kiddie Diary in v8 Exploit Research Part 3](https://medium.com/@INTfinitySG/miscellaneous-series-4-a-script-kiddie-diary-in-v8-exploit-research-part-3-4a3ba2da256d)
 - [An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [Fuzzing Chromes JavaScript Engine v8](https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html)
+- [[V8 Deep Dives] Random Thoughts on Math.random()](https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5)
 
 ## Official Docs
 
