@@ -63,7 +63,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Fuzzing Chromes JavaScript Engine v8](https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html)
 - [[V8 Deep Dives] Random Thoughts on Math.random()](https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5)
 
-## Official Docs
+## Official Docs/Blogs
 
 - [Elements kinds in V8](https://v8.dev/blog/elements-kinds) ✅
 - [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
@@ -99,6 +99,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
 - [Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI/edit?tab=t.0#heading=h.x1cv1fi5g42q)
 - [CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) ✅
+- [A year with Spectre: a V8 perspective](https://v8.dev/blog/spectre) ✅
 
 ## CVEs Walkthrough
 
