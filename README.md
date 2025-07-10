@@ -175,6 +175,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53) ✅
 - [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
+- [Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633)
 
 ## Papers
 
