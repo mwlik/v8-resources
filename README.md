@@ -117,7 +117,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
 - [Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 - [CVE-2025-5959](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
-- [CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
+- [CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2) ✅
 
 ## Presentations
 
