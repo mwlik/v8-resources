@@ -34,7 +34,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) ✅
 - [Understand WebAssembly in One Article](https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282)
 - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/) ✅
-- [Scope in ECMAScript](https://blog.huli.tw/2018/12/08/en/javascript-closure/#scope-in-ecmascript)
+- [All Functions are Closures: Discussing Scope and Closure in JS](https://blog.huli.tw/2018/12/08/en/javascript-closure/)
 - [Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
 - [Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
 - [Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
@@ -119,6 +119,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [CVE-2025-5959](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
 - [CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2) ✅
 - [CVE-2021-30551: Chrome Type Confusion in V8](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30551.html)
+- [Firefox Animation CVE-2024-9680](https://dimitrifourny.github.io/2024/11/14/firefox-animation-cve-2024-9680.html) ✅
 
 ## Presentations
 
