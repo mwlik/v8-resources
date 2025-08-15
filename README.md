@@ -61,6 +61,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [Miscellaneous Series 4— A Script Kiddie Diary in v8 Exploit Research Part 3](https://medium.com/@INTfinitySG/miscellaneous-series-4-a-script-kiddie-diary-in-v8-exploit-research-part-3-4a3ba2da256d)
 - [An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [Fuzzing Chromes JavaScript Engine v8](https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html)
+- [Safari, Hold Still for NaN Minutes!](https://blog.exodusintel.com/2023/12/11/safari-hold-still-for-nan-minutes/)
 - [[V8 Deep Dives] Random Thoughts on Math.random()](https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5)
 
 ## Official Docs/Blogs
@@ -151,6 +152,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared)
 - [Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared)
 - [Off-By-One 2024 Day 1- Exploring WebKit’s Just In Time Compilation: Vignesh S Rao](https://youtu.be/9rt9ErQKnf8?feature=shared)
+- [#OBTS v6.0: "Safari, Hold Still for NaN Minutes!" - Javier Jimenez & Vignesh Rao](https://youtu.be/k1wEJFqirT8)
 
 ## CTFs Writeups
 
@@ -178,6 +180,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 - [Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633) ✅
+- [AliyunCTF 2024 - BadApple](https://blog.csdn.net/qq_61670993/article/details/137603280)
 
 ## Papers
 
