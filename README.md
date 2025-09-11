@@ -135,6 +135,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/--/--] - Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/assets/v0/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
 - [[2021/--/--] - CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 - [[2022/11/11] - Time-Traveling JIT Bugs](https://powerofcommunity.net/assets/v0/poc2022/ManfredPaul.pdf)
+- [[2024/08/--] - Super Hat Trick Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox.pdf)
 
 ## Talks
 
@@ -158,40 +159,40 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## CTFs Writeups
 
-- [Exploiting v8: \*CTF 2019 oob-v8](https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/) ✅
-- [DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html) ✅
-- [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/) ✅
-- [Introduction to TurboFan](https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/) ✅
-- [Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html) ✅
-- [Exploiting Chrome V8: Krautflare (35C3 CTF 2018)](https://www.jaybosamiya.com/blog/2019/01/02/krautflare/)
-- [Exploiting the Math.expm1 typing bug in V8](https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/)
-- [Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
-- [openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
-- [DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) ✅
-- [Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
-- [Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
-- [Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
-- [KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) ✅
-- [Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) ✅
-- [HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
-- [ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
-- [BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) ✅
-- [corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
-- [v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de) ✅
-- [v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53) ✅
-- [HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
-- [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
-- [Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633) ✅
-- [AliyunCTF 2024 - BadApple](https://blog.csdn.net/qq_61670993/article/details/137603280)
+- [[2019/12/13] - Exploiting v8: \*CTF 2019 oob-v8](https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/) ✅
+- [[2020/09/28] - DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html) ✅
+- [[2024/05/26] - Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/) ✅
+- [[2019/01/28] - Introduction to TurboFan](https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/) ✅
+- [[2021/04/06] - Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html) ✅
+- [[2019/01/02] - Exploiting Chrome V8: Krautflare (35C3 CTF 2018)](https://www.jaybosamiya.com/blog/2019/01/02/krautflare/)
+- [[2019/01/02] - Exploiting the Math.expm1 typing bug in V8](https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/)
+- [[2023/12/07] - Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
+- [[2024/10/--] - openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
+- [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) ✅
+- [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
+- [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
+- [[2024/07/14] - Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
+- [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) ✅
+- [[2023/08/--] - Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) ✅
+- [[2022/11/28] - HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
+- [[2023/12/30] - ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
+- [[2024/12/24] - BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) ✅
+- [[2021/08/23] - corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
+- [[2024/03/02] - v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de) ✅
+- [[2024/03/12] - v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53) ✅
+- [[2021/--/--] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
+- [[2025-05-14] - DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
+- [[2025/06/05] - Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633) ✅
+- [[2024/--/--] - AliyunCTF 2024 - BadApple](https://zhuanlan.zhihu.com/p/694555241)
 
 ## Papers
 
+- [[2013/10/28] - An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](https://dl.acm.org/doi/10.1145/2542142.2542143)
 - [[2014/06/12] - Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
+- [[2015/--/--] - The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+- [[2022/11/--] - DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
 - [[2024/02/19] - CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
-- [Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
-- [An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf)
-- [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
-- [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
+- [[2024/08/--] - White Paper (Super Hat Trick: Exploit Chrome and Firefox Four Times)](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) ✅
 
 ## More
 
