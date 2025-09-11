@@ -4,9 +4,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Articles
 
-- [Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
-- [Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
-- [Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) ✅
+- [[2021/10/05] - Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
+- [[2024/08/19] - Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
+- [[2020/02/-] - Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) ✅
 - [Notes about GraphReducer in V8](https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html) ✅
 - [Redundancy Elimination Reducer in V8 and 34C3 CTF V9](https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html) ✅
 - [Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) ✅
