@@ -71,6 +71,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2017/12/13] - JavaScript code coverage](https://v8.dev/blog/javascript-code-coverage)
 - [[2018/06/18] - JavaScript modules](https://v8.dev/features/modules)
 - [[2018/08/14] - Embedded builtins](https://v8.dev/blog/embedded-builtins)
+- [[2018/09/18] - Improving DataView performance in V8](https://v8.dev/blog/dataview)
 - [[2019/01/03] - Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
 - [[2019/01/07] - Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q)
 - [[2019/04/23] - A year with Spectre: a V8 perspective](https://v8.dev/blog/spectre) ✅
