@@ -193,7 +193,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 - [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
 
-## Wikis
+## More
 
 - [V8 Resources](https://mrale.ph/v8/resources.html)
 - [Understanding Chrome V8](https://hackernoon.com/u/huidou)
