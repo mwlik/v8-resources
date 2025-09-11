@@ -1,6 +1,6 @@
 # V8 Resources
 
-These are some resources I've gathered while trying to learn V8 internals (with a security focus), feel free to fork the repo and make you're own progress.
+These are some resources I've gathered while trying to learn V8 internals (with a security focus), feel free to suggest a resource using a pull request.
 
 ## Articles
 
