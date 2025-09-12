@@ -135,6 +135,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/08/--] - Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
 - [[2024/08/--] - Super Hat Trick Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox.pdf)
 - [[2024/11/--] - WebAssembly Is All You Need - Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf)
+- [[2024/12/04] - V8 WebAssemploit](https://docs.google.com/presentation/d/13DvdxMV_go5z-QMSKjMoXeNvk1JWDXJRIudMUsRbV_0)
 - [[2024/--/--] - Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/assets/v0/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
 - [[2024/--/--] - Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/assets/v0/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
 - [[----/--/--] - TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc)
