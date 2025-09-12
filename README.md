@@ -60,6 +60,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/04/12] - Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
 - [[2025/04/13] - Lexical Analysis](https://w1redch4d.github.io/post/lexical-analysis/)
 - [[2025/04/14] - Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
+- [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
 - [[----/--/--] - V8 Overview](https://deepwiki.com/v8/v8)
 
 ## Official Docs/Blogs
