@@ -151,6 +151,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/04/06] - Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 - [[2020/12/01] - Chromium University](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 - [[2021/01/16] - HackTheBox - Rope2](https://www.youtube.com/watch?v=m6Fpc3zxrJg) ✅
+- [[2022/11/17] - Breaking the Chrome Sandbox with Mojo](https://www.youtube.com/watch?v=qhhJCLy0YBA)
 - [[2023/05/30] - OffensiveCon23 - Samuel Groß & Carl Smith - Advancements in JavaScript Engine Fuzzing](https://youtu.be/Yd9m7e9-pG0?feature=shared)
 - [[2023/10/23] - #OBTS v6.0: "Safari, Hold Still for NaN Minutes!" - Javier Jimenez & Vignesh Rao](https://youtu.be/k1wEJFqirT8)
 - [[2024/06/04] - OffensiveCon24 - Samuel Groß - The V8 Heap Sandbox](https://youtu.be/5otAw81AHQ0?si=Bkovbqrg9YhN8Mt) ✅
