@@ -5,8 +5,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 ## Articles
 
 - [[2012/06/03] - Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html) ✅
+- [[2014/12/15] - Deoptimize me not, v8](https://darksi.de/a.deoptimize-me-not/)
 - [[2015/01/11] - What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) ✅
-- [[2015/10/08] - Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
+- [[2015/10/08] - Sea of Nodes](https://darksi.de/d.sea-of-nodes/) ✅
 - [[2014/12/14] - Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
 - [[2017/03/01] - V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 - [[2017/08/16] - Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775) ✅
