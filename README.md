@@ -5,7 +5,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 ## Articles
 
 - [[2012/06/03] - Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html) ✅
-- [[2014/10/29] - Empire Node - Compiler are our friends - Fedor Indutny](https://youtu.be/tf6YTgO6Org)
 - [[2014/12/15] - Deoptimize me not, v8](https://darksi.de/a.deoptimize-me-not/) ✅
 - [[2015/01/11] - What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html) ✅
 - [[2015/10/08] - Sea of Nodes](https://darksi.de/d.sea-of-nodes/) ✅
@@ -150,6 +149,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 - [[2008/09/15] - V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared) ✅
 - [[2009/06/02] - Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared) ✅
+- [[2014/10/29] - Empire Node - Compiler are our friends - Fedor Indutny](https://youtu.be/tf6YTgO6Org)
 - [[2017/05/16] - Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2) ✅
 - [[2017/05/18] - Marja Hölttä: Parsing JavaScript - better lazy than eager? | JSConf EU 2017](https://www.youtube.com/watch?v=Fg7niTmNNLg)
 - [[2018/04/26] - Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9)
