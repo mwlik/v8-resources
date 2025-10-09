@@ -154,7 +154,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2017/05/18] - Marja Hölttä: Parsing JavaScript - better lazy than eager? | JSConf EU 2017](https://www.youtube.com/watch?v=Fg7niTmNNLg) ✅
 - [[2018/04/26] - Fuzzing Javascript Engines for Fun and Pwnage - Areum Lee & Jeonghoon Shin](https://youtu.be/1WWb2HOqjcU?si=EPEOrxxIScu4sHp9) ✅
 - [[2018/06/14] - JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k) ✅
-- [[2018/11/06] - Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
+- [[2018/11/06] - Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared) ✅
 - [[2020/04/06] - Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared) ✅
 - [[2020/12/01] - Chromium University](https://www.youtube.com/playlist?list=PL9ioqAuyl6ULp1f36EEjIN1vSBEfsb-0a)
 - [[2021/01/16] - HackTheBox - Rope2](https://www.youtube.com/watch?v=m6Fpc3zxrJg) ✅
