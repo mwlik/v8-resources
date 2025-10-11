@@ -39,6 +39,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2023/02/23] - Exploring Historical V8 Heap Sandbox Escapes I](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
 - [[2023/05/16] - Google Chrome V8 ArrayShift Race Condition Remote Code Execution](https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
 - [[2023/10/17] - Getting RCE in Chrome with incomplete object initialization in the Maglev compiler](https://github.blog/security/vulnerability-research/getting-rce-in-chrome-with-incomplete-object-initialization-in-the-maglev-compiler/)
+- [[2023/11/16] - Deep JS. In memory of data and types](https://blog.frontend-almanac.com/p14TDUH-R4o)
 - [[2023/12/11] - Safari, Hold Still for NaN Minutes!](https://blog.exodusintel.com/2023/12/11/safari-hold-still-for-nan-minutes/)
 - [[2023/12/12] - Abusing Liftoff assembly and efficiently escaping from sbx](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html) ✅
 - [[2024/01/09] - A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
