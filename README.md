@@ -185,7 +185,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2021/08/23] - corCTF 2021 - Outfoxed](https://ret2.life/posts/corCTF-2021/) +
 - [[2021/##/##] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html) +
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) +
-- [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
+- [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html) +
 - [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
 - [[2022/11/28] - HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) +
