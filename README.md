@@ -185,7 +185,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) *
 - [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
 - [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
-- [[2022/11/28] - HITCON CTF 2022 XX Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
+- [[2022/11/28] - HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) *
 - [[2023/08/XX] - Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) *
 - [[2023/12/07] - Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
