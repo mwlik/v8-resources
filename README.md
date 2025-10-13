@@ -20,7 +20,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2019/08/06] - V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
 - [[2019/08/28] - Notes about GraphReducer in V8](https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html) *
 - [[2019/08/28] - Redundancy Elimination Reducer in V8 and 34C3 CTF V9](https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html) *
-- [[2020/02/--] - Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) *
+- [[2020/02/XX] - Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) *
 - [[2020/08/27] - [V8 Deep Dives] Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df) *
 - [[2020/11/17] - Modern attacks on the Chrome browser : optimizations and deoptimizations](https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/)
 - [[2021/01/12] - In-the-Wild Series: Chrome Infinity Bug](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html)
@@ -45,7 +45,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/01/09] - A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
 - [[2024/01/25] - A Deep Dive into V8 Sandbox Escape Technique Used in In-The-Wild Exploit](https://theori.io/blog/a-deep-dive-into-v8-sandbox-escape-technique-used-in-in-the-wild-exploit)
 - [[2024/02/21] - Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
-- [[2024/05/--] - From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) *
+- [[2024/05/XX] - From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/) *
 - [[2024/06/05] - An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [[2024/06/26] - Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [[2024/08/13] - From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
@@ -64,7 +64,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/04/14] - Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
 - [[2025/07/18] - 101 Chrome Exploitation — Part 0: Preface](https://opzero.ru/en/press/101-chrome-exploitation-part-0-preface/)
 - [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
-- [[----/--/--] - V8 Overview](https://deepwiki.com/v8/v8)
+- [[XXXX/XX/XX] - V8 Overview](https://deepwiki.com/v8/v8)
 
 ## Official Docs/Blogs
 
@@ -81,33 +81,33 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2019/04/23] - A year with Spectre: a V8 perspective](https://v8.dev/blog/spectre) *
 - [[2019/09/11] - Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI)
 - [[2020/03/30] - Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
-- [[2021/07/--] - V8 Sandbox](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8) *
-- [[2022/02/--] - V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w) *
-- [[2022/02/--] - V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko)
-- [[2022/07/--] - V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk)
-- [[2022/12/--] - V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k) *
+- [[2021/07/XX] - V8 Sandbox](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8) *
+- [[2022/02/XX] - V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w) *
+- [[2022/02/XX] - V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko)
+- [[2022/07/XX] - V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk)
+- [[2022/12/XX] - V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k) *
 - [[2023/02/11] - Turboshaft Frontend - Preliminary Design Elements](https://docs.google.com/document/d/1vL1_1g4sY4WbTgbirKBq-40_zsrhI-zM0ZiioC_ahl8)
 - [[2023/10/09] - Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity) *
-- [[2023/10/--] - V8 Sandbox - Trusted Space](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM)
+- [[2023/10/XX] - V8 Sandbox - Trusted Space](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM)
 - [[2023/10/03] - Turboshaft JS Inlining and In-place Mutations](https://docs.google.com/document/d/1_L3TWgREnlm6QUTca27jN-TLyxo_Jy-AbicVhzmEHwM)
 - [[2023/11/01] - A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 - [[2023/11/27] - Maglev with the Reducer Framework (Preliminary Investigation)](https://docs.google.com/document/d/1i1GJ6tIDRBe_Dolwhdkm1vVSiLwSKC5CB88-u9pPjVo)
 - [[2023/12/14] - V8 is Faster and Safer than Ever!](https://v8.dev/blog/holiday-season-2023)
-- [[2024/01/--] - Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg) *
-- [[2024/02/--] - Maglev as a Frontend for Turboshaft](https://docs.google.com/document/d/1BatjXtg-Iv9mHgce_pa1L8MaCHShekQEg4jJ83IXd4o)
-- [[2024/02/--] - V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c) *
+- [[2024/01/XX] - Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg) *
+- [[2024/02/XX] - Maglev as a Frontend for Turboshaft](https://docs.google.com/document/d/1BatjXtg-Iv9mHgce_pa1L8MaCHShekQEg4jJ83IXd4o)
+- [[2024/02/XX] - V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c) *
 - [[2024/04/04] - The V8 Sandbox](https://v8.dev/blog/sandbox) *
-- [[2024/07/--] - V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
+- [[2024/07/XX] - V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
 - [[2025/03/25] - Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
-- [[----/--/--] - Maps (Hidden Classes) in V8](https://v8.dev/docs/hidden-classes)
-- [[----/--/--] - Stack trace API](https://v8.dev/docs/stack-trace-api) *
-- [[----/--/--] - V8 Torque user manual](https://v8.dev/docs/torque) *
-- [[----/--/--] - V8 Torque builtins](https://v8.dev/docs/torque-builtins)
-- [[----/--/--] - CodeStubAssembler builtins](https://v8.dev/docs/csa-builtins)
-- [[----/--/--] - Built-in functions](https://v8.dev/docs/builtin-functions) *
-- [[----/--/--] - Investigating memory leaks](https://v8.dev/docs/memory-leaks)
-- [[----/--/--] - The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
-- [[----/--/--] - CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) *
+- [[XXXX/XX/XX] - Maps (Hidden Classes) in V8](https://v8.dev/docs/hidden-classes)
+- [[XXXX/XX/XX] - Stack trace API](https://v8.dev/docs/stack-trace-api) *
+- [[XXXX/XX/XX] - V8 Torque user manual](https://v8.dev/docs/torque) *
+- [[XXXX/XX/XX] - V8 Torque builtins](https://v8.dev/docs/torque-builtins)
+- [[XXXX/XX/XX] - CodeStubAssembler builtins](https://v8.dev/docs/csa-builtins)
+- [[XXXX/XX/XX] - Built-in functions](https://v8.dev/docs/builtin-functions) *
+- [[XXXX/XX/XX] - Investigating memory leaks](https://v8.dev/docs/memory-leaks)
+- [[XXXX/XX/XX] - The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
+- [[XXXX/XX/XX] - CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md) *
 
 ## CVEs Walkthrough
 
@@ -128,23 +128,23 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/12/12] - CVE-2024-12695 Incorrect implementation of the fast path in Object.assign() lead to memory corruption](https://issues.chromium.org/issues/383647255) *
 - [[2025/06/20] - CVE-2025-5959](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
 - [[2025/08/01] - CVE-2025-2135 Analysis](https://keksite.in/posts/CVE-2025-2135/)
-- [[2025/08/--] - CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
-- [[2025/08/--] - CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2) *
-- [[----/--/--] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
+- [[2025/08/XX] - CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
+- [[2025/08/XX] - CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2) *
+- [[XXXX/XX/XX] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
 
 - [[2016/11/11] - Turbofan IR](https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM)
-- [[2019/--/--] - Attacking Turbofan TyphoonCon 2019 - Seoul](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf) *
-- [[2021/--/--] - CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
+- [[2019/XX/XX] - Attacking Turbofan TyphoonCon 2019 - Seoul](https://doar-e.github.io/presentations/typhooncon2019/AttackingTurboFan_TyphoonCon_2019.pdf) *
+- [[2021/XX/XX] - CS 253: Web Security Browser architecture, Writing secure code](https://web.stanford.edu/class/cs253/lectures/Lecture%2020.pdf)
 - [[2022/11/11] - Time-Traveling JIT Bugs](https://powerofcommunity.net/assets/v0/poc2022/ManfredPaul.pdf)
-- [[2024/08/--] - Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
-- [[2024/08/--] - Super Hat Trick Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox.pdf)
-- [[2024/11/--] - WebAssembly Is All You Need - Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf)
+- [[2024/08/XX] - Achilles' Heel of JS Engines: Exploiting Modern Browsers During WASM Execution](https://i.blackhat.com/BH-US-24/Presentations/US24-Liu-Achilles-Heel-of-JS-Engines-Exploiting-Modern-Browsers-During-WASM-Execution.pdf)
+- [[2024/08/XX] - Super Hat Trick Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox.pdf)
+- [[2024/11/XX] - WebAssembly Is All You Need - Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://github.com/leesh3288/talks/blob/main/poc2024%2F%5BPOC2024%5D%20WebAssembly%20Is%20All%20You%20Need%20-%20Exploiting%20Chrome%20and%20the%20V8%20Sandbox%2010%2B%20times%20with%20WASM.pdf)
 - [[2024/12/04] - V8 WebAssemploit](https://docs.google.com/presentation/d/13DvdxMV_go5z-QMSKjMoXeNvk1JWDXJRIudMUsRbV_0)
-- [[2024/--/--] - Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/assets/v0/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
-- [[2024/--/--] - Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/assets/v0/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
-- [[----/--/--] - TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh--wgLeaVibsbb3tc)
+- [[2024/XX/XX] - Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/assets/v0/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
+- [[2024/XX/XX] - Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/assets/v0/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
+- [[XXXX/XX/XX] - TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlThXXwgLeaVibsbb3tc)
 
 ## Talks
 
@@ -181,22 +181,22 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/09/28] - DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html) *
 - [[2021/04/06] - Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html) *
 - [[2021/08/23] - corCTF 2021 - outfoxed](https://ret2.life/posts/corCTF-2021/)
-- [[2021/--/--] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
+- [[2021/XX/XX] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/) *
 - [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
 - [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
-- [[2022/11/28] - HITCON CTF 2022 -- Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
+- [[2022/11/28] - HITCON CTF 2022 XX Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/) *
-- [[2023/08/--] - Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) *
+- [[2023/08/XX] - Writeup for v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution) *
 - [[2023/12/07] - Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
 - [[2023/12/30] - ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
 - [[2024/03/02] - v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de) *
 - [[2024/03/12] - v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53) *
 - [[2024/05/26] - Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/) *
 - [[2024/07/14] - Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
-- [[2024/10/--] - openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
+- [[2024/10/XX] - openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
 - [[2024/12/24] - BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/) *
-- [[2024/--/--] - AliyunCTF 2024 - BadApple](https://zhuanlan.zhihu.com/p/694555241)
+- [[2024/XX/XX] - AliyunCTF 2024 - BadApple](https://zhuanlan.zhihu.com/p/694555241)
 - [[2025/03/17] - UTCTF 2025 - E-Corp Part 2](https://samuzora.com/posts/utctf-2025) *
 - [[2025-05-14] - DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 - [[2025/06/05] - Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633) *
@@ -207,11 +207,11 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 - [[2013/10/28] - An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](https://dl.acm.org/doi/10.1145/2542142.2542143)
 - [[2014/06/12] - Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
-- [[2015/--/--] - The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
+- [[2015/XX/XX] - The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 - [[2020/05/21] - Repairing and Mechanising the JavaScript Relaxed Memory Model](https://www.cl.cam.ac.uk/~jp622/repairing_javascript.pdf)
-- [[2022/11/--] - DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
+- [[2022/11/XX] - DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
 - [[2024/02/19] - CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
-- [[2024/08/--] - White Paper (Super Hat Trick: Exploit Chrome and Firefox Four Times)](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) *
+- [[2024/08/XX] - White Paper (Super Hat Trick: Exploit Chrome and Firefox Four Times)](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf) *
 
 ## More
 
