@@ -120,6 +120,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/01/19] - Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
 - [[2024/02/24] - Analyzing the Google Chrome V8 CVE-2024-0517 Out-of-Bounds Code Execution Vulnerability](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 - [[2024/05/02] - CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
+- [[2024/05/19] - CVE-2024-4947: v8 incorrect AccessInfo for module namespace object causes Maglev type confusion](https://buptsb.github.io/blog/post/CVE-2024-4947-%20v8%20incorrect%20AccessInfo%20for%20module%20namespace%20object%20causes%20Maglev%20type%20confusion.html)
 - [[2024/08/14] - V8 CVE-2021-21224 Renderer RCE Root Cause Analysis](https://s1r1us.ninja/posts/v8-rca/)
 - [[2024/08/14] - CVE-2024-0517 Chrome V8 Out of Bounds Write](https://bnovkebin.github.io/blog/CVE-2024-0517/)
 - [[2024/08/30] - CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
@@ -130,6 +131,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/01] - CVE-2025-2135 Analysis](https://keksite.in/posts/CVE-2025-2135/)
 - [[2025/08/##] - CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
 - [[2025/08/##] - CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2) +
+- [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
