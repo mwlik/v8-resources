@@ -64,6 +64,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/04/14] - Parser Workflow](https://w1redch4d.github.io/post/parser-workflow/)
 - [[2025/07/18] - 101 Chrome Exploitation — Part 0: Preface](https://opzero.ru/en/press/101-chrome-exploitation-part-0-preface/)
 - [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
+- [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
 ## Official Docs/Blogs
