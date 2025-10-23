@@ -131,6 +131,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/01] - CVE-2025-2135 Analysis](https://keksite.in/posts/CVE-2025-2135/)
 - [[2025/08/##] - CVE-2025-5419](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
 - [[2025/08/##] - CVE-2025-6554](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
+- [[2025/10/05] - CVE-2025-6554: 3rd hole exploitation technique](https://github.com/mistymntncop/CVE-2025-6554/blob/main/exploit.js)
 - [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
