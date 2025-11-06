@@ -5,10 +5,15 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 ## Articles
 
 - [[2012/06/03] - Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)
+- [[2012/11/04] - A tour of V8: full compiler](https://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
+- [[2012/12/24] - A tour of V8: object representation](https://jayconrod.com/posts/52/a-tour-of-v8--object-representation)
+- [[2013/04/10] - A tour of V8: Crankshaft, the optimizing compiler](https://jayconrod.com/posts/54/a-tour-of-v8--crankshaft--the-optimizing-compiler)
+- [[2013/09/23] - A tour of V8: Garbage Collection](https://jayconrod.com/posts/55/a-tour-of-v8--garbage-collection)
+- [[2014/12/14] - Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
 - [[2014/12/15] - Deoptimize me not, v8](https://darksi.de/a.deoptimize-me-not/)
 - [[2015/01/11] - What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
 - [[2015/10/08] - Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
-- [[2014/12/14] - Google Chrome Exploitation – A Case Study](https://unit42.paloaltonetworks.com/google-chrome-exploitation-case-study/)
+- [[2016/09/19] - Machine learning and compiler optimization](https://jayconrod.com/posts/94/machine-learning-and-compiler-optimization)
 - [[2017/03/01] - V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 - [[2017/08/16] - Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [[2018/12/08] - All Functions are Closures: Discussing Scope and Closure in JS](https://blog.huli.tw/2018/12/08/en/javascript-closure/)
