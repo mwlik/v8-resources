@@ -214,8 +214,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/03/17] - UTCTF 2025 - E-Corp Part 2](https://samuzora.com/posts/utctf-2025)
 - [[2025/05/14] - DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 - [[2025/06/05] - Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633)
-- [[2025/10/07] - Securinets Quals 2025: Sukunahikona](https://blog.zolutal.io/securinets-sukunahikona/)
-- [[2025/10/11] - Securinets Quals 2025: Sukunahikona (another writeup)](https://nordrljos.dev/CTFs/2025/securinets)
+- [[2025/10/07] - zolutal's Securinets Quals 2025: Sukunahikona](https://blog.zolutal.io/securinets-sukunahikona/)
+- [[2025/10/11] - Securinets Quals 2025: Sukunahikona](https://nordrljos.dev/CTFs/2025/securinets)
 - [[2025/11/10] - Infobahn CTF 2025 The Butterfly effect](https://deayzl.tistory.com/entry/Infobahn-CTF-2025PWNV8-The-Butterfly-effect)
 
 ## Papers
