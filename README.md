@@ -142,6 +142,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/##] - mistymntncop's CVE-2025-6554 Analysis](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
 - [[2025/10/05] - mistymntncop's CVE-2025-6554: 3rd Hole Exploitation Technique Analysis](https://github.com/mistymntncop/CVE-2025-6554/blob/main/exploit.js)
 - [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
+- [[2025/11/10] - Infobahn CTF 2025 The Butterfly effect](https://deayzl.tistory.com/entry/Infobahn-CTF-2025PWNV8-The-Butterfly-effect)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
