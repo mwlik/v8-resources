@@ -70,7 +70,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
-## Official Docs/Blogs
+## Official Blogs
 
 - [[2015/12/17] - There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
 - [[2017/09/12] - Elements kinds in V8](https://v8.dev/blog/elements-kinds)
@@ -81,27 +81,12 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2018/08/14] - Embedded builtins](https://v8.dev/blog/embedded-builtins)
 - [[2018/09/18] - Improving DataView performance in V8](https://v8.dev/blog/dataview)
 - [[2019/01/03] - Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
-- [[2019/01/07] - Zero-cost async stack traces](https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q)
 - [[2019/04/23] - A year with Spectre: a V8 perspective](https://v8.dev/blog/spectre)
-- [[2019/09/11] - Compressed pointers in V8](https://docs.google.com/document/d/10qh2-b4C5OtSg-xLwyZpEI5ZihVBPtn1xwKBbQC26yI)
 - [[2020/03/30] - Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
-- [[2021/07/##] - V8 Sandbox](https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8)
-- [[2022/02/##] - V8 Sandbox - Address Space](https://docs.google.com/document/d/1PM4Zqmlt8ac5O8UNQfY7fOsem-6MhbsB-vjFI-9XK6w)
-- [[2022/02/##] - V8 Sandbox - Sandboxed Pointers](https://docs.google.com/document/d/1HSap8-J3HcrZvT7-5NsbYWcjfc0BVoops5TDHZNsnko)
-- [[2022/07/##] - V8 Sandbox - External Pointer Sandboxing](https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk)
-- [[2022/12/##] - V8 Sandbox - Code Pointer Sandboxing](https://docs.google.com/document/d/1CPs5PutbnmI-c5g7e_Td9CNGh5BvpLleKCqUnqmD82k)
-- [[2023/02/11] - Turboshaft Frontend - Preliminary Design Elements](https://docs.google.com/document/d/1vL1_1g4sY4WbTgbirKBq-40_zsrhI-zM0ZiioC_ahl8)
 - [[2023/10/09] - Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
-- [[2023/10/##] - V8 Sandbox - Trusted Space](https://docs.google.com/document/d/1IrvzL4uX_Zv0k2Iakdp_q_z33bj-qlYF5IesGpXW0fM)
-- [[2023/10/03] - Turboshaft JS Inlining and In-place Mutations](https://docs.google.com/document/d/1_L3TWgREnlm6QUTca27jN-TLyxo_Jy-AbicVhzmEHwM)
 - [[2023/11/01] - A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
-- [[2023/11/27] - Maglev with the Reducer Framework (Preliminary Investigation)](https://docs.google.com/document/d/1i1GJ6tIDRBe_Dolwhdkm1vVSiLwSKC5CB88-u9pPjVo)
 - [[2023/12/14] - V8 is Faster and Safer than Ever!](https://v8.dev/blog/holiday-season-2023)
-- [[2024/01/##] - Const tracking lets](https://docs.google.com/document/d/18F1syu8314lcz1pm9e2LNi3pYzp5t1ah5EpmR4mE4Tg)
-- [[2024/02/##] - Maglev as a Frontend for Turboshaft](https://docs.google.com/document/d/1BatjXtg-Iv9mHgce_pa1L8MaCHShekQEg4jJ83IXd4o)
-- [[2024/02/##] - V8 Sandbox - Hardware Support](https://docs.google.com/document/d/12MsaG6BYRB-jQWNkZiuM3bY8X2B2cAsCMLLdgErvK4c)
 - [[2024/04/04] - The V8 Sandbox](https://v8.dev/blog/sandbox)
-- [[2024/07/##] - V8 Sandbox + Leaptiering](https://docs.google.com/document/d/1WkyEynMluvIr0LBmrapyF7MiE8wIHFHnlP5B6FFhQuA)
 - [[2025/03/25] - Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 - [[####/##/##] - Maps (Hidden Classes) in V8](https://v8.dev/docs/hidden-classes)
 - [[####/##/##] - Stack trace API](https://v8.dev/docs/stack-trace-api)
@@ -231,6 +216,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 ## More
 
 - [V8 Resources](https://mrale.ph/v8/resources.html)
+- [V8 Design Docs](https://github.com/two-heart/v8-design-docs)
 - [Understanding Chrome V8](https://hackernoon.com/u/huidou)
 - [learning-v8](https://github.com/danbev/learning-v8)
 - [v8-perf](https://github.com/thlorenz/v8-perf)
