@@ -81,6 +81,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2018/08/14] - Embedded builtins](https://v8.dev/blog/embedded-builtins)
 - [[2018/09/18] - Improving DataView performance in V8](https://v8.dev/blog/dataview)
 - [[2019/01/03] - Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
+- [[2019/03/25] - Blazingly fast parsing, part 1: optimizing the scanner](https://v8.dev/blog/scanner)
+- [[2019/04/15] - Blazingly fast parsing, part 2: lazy parsing](https://v8.dev/blog/preparser)
 - [[2019/04/23] - A year with Spectre: a V8 perspective](https://v8.dev/blog/spectre)
 - [[2020/03/30] - Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
 - [[2023/10/09] - Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
@@ -142,6 +144,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/12/04] - V8 WebAssemploit](https://docs.google.com/presentation/d/13DvdxMV_go5z-QMSKjMoXeNvk1JWDXJRIudMUsRbV_0)
 - [[2024/##/##] - Fuzzing for complex bugs across languages in JS Engines](https://powerofcommunity.net/assets/v0/poc2024/Carl%20Smith,%20Fuzzing%20for%20complex%20bugs%20across%20languages%20in%20JavaScript%20Engines.pdf)
 - [[2024/##/##] - Fake it till you make it: Bypassing V8 Sandbox by constructing a fake Isolate](https://powerofcommunity.net/assets/v0/poc2024/Jaewon%20Min%20&%20Kaan%20Ezder,%20Fake%20it%20till%20you%20make%20it%20-%20Bypassing%20V8%20Sandbox%20by%20constructing%20a%20fake%20Isolate.pdf)
+- [[2025/11/21] - JS Engine Security in 2025: New Bugs, New Defenses](https://powerofcommunity.net/2025/slide/s-92443.pdf)
 - [[####/##/##] - TurboFan JIT Design](https://docs.google.com/presentation/d/1sOEF4MlF7LeO7uq-uThJSulJlTh##wgLeaVibsbb3tc)
 
 ## Talks
