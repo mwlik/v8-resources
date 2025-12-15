@@ -32,6 +32,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2021/01/12] - In-the-Wild Series: Chrome Infinity Bug](https://googleprojectzero.blogspot.com/2021/01/in-wild-series-chrome-infinity-bug.html)
 - [[2021/04/21] - Exploit Development: Browser Exploitation on Windows - Understanding Use-After-Free Vulnerabilities](https://connormcgarr.github.io/browser1/)
 - [[2021/04/02] - V8 Deep Dives: Random Thoughts on Math.random()](https://apechkurov.medium.com/v8-deep-dives-random-thoughts-on-math-random-fb155075e9e5)
+- [[2021/10/05] - Phrack: Attacking JavaScript Engines](https://phrack.org/issues/70/3#article)
 - [[2021/10/05] - Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article)
 - [[2021/12/28] - V8 Heap pwn and /dev/memes - WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
 - [[2022/01/23] - Fuzzing Chromes JavaScript Engine v8](https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html)
@@ -183,6 +184,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/09/28] - DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html)
 - [[2021/04/06] - Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html)
 - [[2021/08/23] - corCTF 2021 - Outfoxed](https://ret2.life/posts/corCTF-2021/)
+- [[2021/11/22] - N1CTF - Jerry](https://github.com/pr0cf5/CTF-writeups/blob/master/2021/n1ctf-jerry/writeup.md)
 - [[2021/##/##] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/)
 - [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
@@ -205,6 +207,9 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/10/07] - zolutal's Securinets Quals 2025: Sukunahikona](https://blog.zolutal.io/securinets-sukunahikona/)
 - [[2025/10/11] - Securinets Quals 2025: Sukunahikona](https://nordrljos.dev/CTFs/2025/securinets)
 - [[2025/11/10] - Infobahn CTF 2025 The Butterfly effect](https://deayzl.tistory.com/entry/Infobahn-CTF-2025PWNV8-The-Butterfly-effect)
+- [[2025/11/15] - Inline8 - type-confusion in a small JS engine @ DCTF](https://blog.mcsky.ro/writeups/2025/11/15/inline8-writeup.html)
+- [[2025/11/16] - Inline8 - DefCamp DCTF Finals 2025](https://kqx.io/writeups/inline8/)
+- [[2025/12/12] - Mimic 2025 - Cherry](https://leo1.cc/posts/writeups/mimic25-cherry/)
 
 ## Papers
 
