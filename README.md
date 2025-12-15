@@ -219,7 +219,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/05/21] - Repairing and Mechanising the JavaScript Relaxed Memory Model](https://www.cl.cam.ac.uk/~jp622/repairing_javascript.pdf)
 - [[2022/11/##] - DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://nebelwelt.net/files/25NDSS2.pdf)
 - [[2024/02/19] - CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation](https://arxiv.org/pdf/2402.12222)
-- [[2024/08/##] - White Paper (Super Hat Trick: Exploit Chrome and Firefox Four Times)](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf)
+- [[2024/08/##] - Super Hat Trick: Exploit Chrome and Firefox Four Times](https://i.blackhat.com/BH-US-24/Presentations/US24-Xiao-Super-Hat-Trick-Exploit-Chrome-and-Firefox-Four-Times-wp.pdf)
 
 ## More
 
