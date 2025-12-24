@@ -54,6 +54,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/01/09] - A Brief JavaScriptCore RCE Story](https://qriousec.github.io/post/jsc-uninit/)
 - [[2024/01/25] - A Deep Dive into V8 Sandbox Escape Technique Used in In-The-Wild Exploit](https://theori.io/blog/a-deep-dive-into-v8-sandbox-escape-technique-used-in-in-the-wild-exploit)
 - [[2024/02/21] - Summary of WebAssembly Security Research](https://mp.weixin.qq.com/s/cPUaDQaCWpZiBEgZqbqvPg)
+- [[2024/03/03] - The first journey of implementing Float16Array into V8](https://blog.seokho.dev/development/2024/03/03/V8-Float16Array.html)
 - [[2024/05/##] - From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/)
 - [[2024/06/05] - An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [[2024/08/19] - Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
