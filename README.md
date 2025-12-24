@@ -47,6 +47,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/12/20] - I released CSS Trigonometric Functions](https://blog.seokho.dev/development/2022/12/20/css-trigonometric-functions.html)
 - [[2023/02/23] - Exploring Historical V8 Heap Sandbox Escapes I](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
 - [[2023/05/16] - Google Chrome V8 ArrayShift Race Condition Remote Code Execution](https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
+- [[2023/09/23] - How to collect coverage with Jest (V8)](https://blog.seokho.dev/development/2023/09/23/how-to-collect-coverage-jest-v8.html)
 - [[2023/11/16] - Deep JS. In memory of data and types](https://blog.frontend-almanac.com/p14TDUH-R4o)
 - [[2023/12/11] - Safari, Hold Still for NaN Minutes!](https://blog.exodusintel.com/2023/12/11/safari-hold-still-for-nan-minutes/)
 - [[2023/12/12] - Abusing Liftoff assembly and efficiently escaping from sbx](https://retr0.zip/blog/abusing-Liftoff-assembly-and-efficiently-escaping-from-sbx.html)
