@@ -68,6 +68,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/02/01] - Overview of Map Exploitation in v8](https://xia0.sh/blog/visit-the-map/visit-the-map)
 - [[2025/02/21] - Float16Array Turbofan Pipeline DevLog — Weekly Sync with V8 Leader](https://blog.seokho.dev/development/2025/02/21/V8-DevLogFloat16Array.html)
 - [[2025/03/16] - V8 Debugging Note](https://blog.seokho.dev/development/2025/03/16/V8-debugging-note.html)
+- [[2025/04/06] - V8 Explicit Compile Hints with Magic Comments](https://blog.seokho.dev/development/2025/04/06/V8-ExplicitCompileHintsWithMagicComments.html)
 - [[2025/04/11] - Intro V8](https://w1redch4d.github.io/post/intro-v8/)
 - [[2025/04/12] - Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
 - [[2025/04/12] - Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
