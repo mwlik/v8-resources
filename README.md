@@ -46,6 +46,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/11/27] - Code Execution in Chromium’s V8 Heap Sandbox](https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/)
 - [[2022/12/20] - I released CSS Trigonometric Functions](https://blog.seokho.dev/development/2022/12/20/css-trigonometric-functions.html)
 - [[2023/02/23] - Exploring Historical V8 Heap Sandbox Escapes I](https://anvbis.au/posts/exploring-historical-v8-heap-sandbox-escapes-i/)
+- [[2023/03/02] - Hacking the Nintendo DSi Browser](https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser)
 - [[2023/05/16] - Google Chrome V8 ArrayShift Race Condition Remote Code Execution](https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/)
 - [[2023/09/23] - How to collect coverage with Jest (V8)](https://blog.seokho.dev/development/2023/09/23/how-to-collect-coverage-jest-v8.html)
 - [[2023/11/16] - Deep JS. In memory of data and types](https://blog.frontend-almanac.com/p14TDUH-R4o)
