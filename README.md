@@ -208,6 +208,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2023/12/30] - ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
 - [[2024/03/02] - v8 CTF out of bounds 2019: Installing v8 Part 1](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-installing-v8-e5cd21cbf2de)
 - [[2024/03/12] - v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53)
+- [[2024/05/15] - [SDCTF 2024] SlowJS++](https://maplebacon.org/2024/05/sdctf-slowjspp/)
 - [[2024/05/26] - Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
 - [[2024/07/14] - Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
 - [[2024/10/##] - openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
