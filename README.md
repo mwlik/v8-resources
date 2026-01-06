@@ -137,7 +137,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/09/19] - Zooming in on CVE‑2024‑7965](https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/)
 - [[2024/11/14] - Firefox Animation CVE-2024-9680](https://dimitrifourny.github.io/2024/11/14/firefox-animation-cve-2024-9680.html)
 - [[2024/12/12] - CVE-2024-12695 Incorrect implementation of the fast path in Object.assign() lead to memory corruption](https://issues.chromium.org/issues/383647255)
-- [[2025/06/20] - CVE-2025-5959](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
+- [[2025/06/20] - Linz's CVE-2025-5959 Analysis](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
 - [[2025/08/01] - CVE-2025-2135 Analysis](https://keksite.in/posts/CVE-2025-2135/)
 - [[2025/08/##] - mistymntncop's CVE-2025-5419 Analysis](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
 - [[2025/08/##] - mistymntncop's CVE-2025-6554 Analysis](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
