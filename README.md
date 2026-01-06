@@ -212,7 +212,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/03/12] - v8 CTF out of bounds 2019 Part 2: What they don’t tell you about setting up your GDB.](https://medium.com/@ndsetobol/v8-ctf-out-of-bounds-2019-part-2-what-they-dont-tell-you-about-setting-up-your-gdb-541411cb8f53)
 - [[2024/05/15] - [SDCTF 2024] SlowJS++](https://maplebacon.org/2024/05/sdctf-slowjspp/)
 - [[2024/05/26] - Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
-- [[2024/05/30] - SASCTF 2024 Übercaged](https://github.com/Team-Drovosec/sasctf-quals-2024/tree/main/tasks/pwn-ubercaged)
+- [[2024/05/30] - SASCTF 2024 - Übercaged](https://github.com/Team-Drovosec/sasctf-quals-2024/tree/main/tasks/pwn-ubercaged)
 - [[2024/07/14] - Breaking V8 Sandbox with Trusted Pointer Table](https://mem2019.github.io/jekyll/update/2024/07/14/HITCON.html)
 - [[2024/10/##] - openECSC 2024 - Final Round: Backfired](https://github.com/ECSC2024/openECSC-2024/blob/main/round-4/pwn03/writeup.md)
 - [[2024/12/24] - BackdoorCTF 2024 - V8Box](https://linz04.github.io/2024/12/24/BackdoorCTF-2024-V8Box/)
