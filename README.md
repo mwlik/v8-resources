@@ -206,6 +206,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
 - [[2022/11/28] - HITCON CTF 2022 - Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/)
+- [[2023/06/20] - TyphoonCTF 2023 - TurboRand](https://ssd-disclosure.com/turborand-v8-type-confusion-private-property-leak/)
 - [[2023/08/##] - Google CTF 2023 - v8box](https://github.com/google/google-ctf/tree/main/2023/quals/sandbox-v8box/solution)
 - [[2023/12/07] - Start Your Engines - Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google%27s-New-v8CTF/)
 - [[2023/12/30] - ASIS CTF Finals 2023: isWebP.js](https://chovid99.github.io/posts/asis-ctf-finals-2023/)
