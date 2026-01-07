@@ -200,6 +200,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2021/08/23] - corCTF 2021 - Outfoxed](https://ret2.life/posts/corCTF-2021/)
 - [[2021/09/27] - TCTF 2021 Promise](https://mem2019.github.io/jekyll/update/2021/09/27/TCTF2021-Promise.html)
 - [[2021/11/22] - N1CTF - Jerry](https://github.com/pr0cf5/CTF-writeups/blob/master/2021/n1ctf-jerry/writeup.md)
+- [[2021/11/29] - CyberJawara 2021 - Quickmaffs](https://linz04.github.io/2021/11/29/2021-11-29-quickmaffs/)
 - [[2021/##/##] - HITCON CTF 2021: Hole](https://hoefler.dev/articles/hole.html)
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/)
 - [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
