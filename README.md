@@ -222,11 +222,12 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/06/05] - Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633)
 - [[2025/09/08] - ASIS CTF 2025 Quals RandomJS](https://deayzl.tistory.com/entry/ASIS-CTF-2025-Quals-RandomJS-writeup)
 - [[2025/10/07] - zolutal's Securinets Quals 2025: Sukunahikona](https://blog.zolutal.io/securinets-sukunahikona/)
-- [[2025/10/11] - Securinets Quals 2025: Sukunahikona](https://nordrljos.dev/CTFs/2025/securinets)
-- [[2025/11/10] - Infobahn CTF 2025 The Butterfly effect](https://deayzl.tistory.com/entry/Infobahn-CTF-2025PWNV8-The-Butterfly-effect)
+- [[2025/10/11] - Securinets Quals 2025 - Sukunahikona](https://nordrljos.dev/CTFs/2025/securinets)
+- [[2025/11/10] - Infobahn CTF 2025 - The Butterfly effect](https://deayzl.tistory.com/entry/Infobahn-CTF-2025PWNV8-The-Butterfly-effect)
 - [[2025/11/15] - Inline8 - type-confusion in a small JS engine @ DCTF](https://blog.mcsky.ro/writeups/2025/11/15/inline8-writeup.html)
-- [[2025/11/16] - Inline8 - DefCamp DCTF Finals 2025](https://kqx.io/writeups/inline8/)
+- [[2025/11/16] - DefCamp DCTF Finals 2025 - Inline8](https://kqx.io/writeups/inline8/)
 - [[2025/12/12] - Mimic 2025 - Cherry](https://leo1.cc/posts/writeups/mimic25-cherry/)
+- [[2025-12-30] - ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
 
 ## Papers
 
