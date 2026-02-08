@@ -14,7 +14,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2015/01/11] - What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)
 - [[2015/10/08] - Sea of Nodes](https://darksi.de/d.sea-of-nodes/)
 - [[2016/09/19] - Machine learning and compiler optimization](https://jayconrod.com/posts/94/machine-learning-and-compiler-optimization)
-- [[2016/12/13] - Theori's Chakra JIT CFG Bypass] (https://theori.io/blog/chakra-jit-cfg-bypass)
+- [[2016/12/13] - Theori's Chakra JIT CFG Bypass](https://theori.io/blog/chakra-jit-cfg-bypass)
 - [[2017/03/01] - V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 - [[2017/08/16] - Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 - [[2018/06/05] - A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
