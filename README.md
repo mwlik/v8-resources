@@ -83,6 +83,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
 - [[2025/09/10] - Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer](https://qriousec.github.io/post/oob-angle/)
 - [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
+- [[2026/02/04] - How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
