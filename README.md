@@ -89,6 +89,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Official Blogs
 
+- [[2015/09/25] - Custom startup snapshots](https://v8.dev/blog/custom-startup-snapshots)
 - [[2015/12/17] - There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
 - [[2017/09/12] - Elements kinds in V8](https://v8.dev/blog/elements-kinds)
 - [[2017/10/05] - Optimizing ES2015 proxies in V8](https://v8.dev/blog/optimizing-proxies)
