@@ -63,6 +63,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/06/05] - An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [[2024/08/19] - Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
 - [[2024/09/05] - Miscellaneous Series 2 — A Script Kiddie Diary in v8 Exploit Research Part 1](https://medium.com/@INTfinitySG/miscellaneous-series-2-a-script-kiddie-diary-in-v8-exploit-research-part-1-5b0bab211f5a)
+- [[2024/10/05] - Google Chrome RCE (no sandbox) via CanonicalEquality::EqualValueType()](https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/)
 - [[2024/10/25] - A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/)
 - [[2024/11/03] - Mind the v8 patch gap: Electron's Context Isolation is insecure](https://s1r1us.ninja/posts/electron-contextbridge-is-insecure/)
 - [[2024/12/09] - Miscellaneous Series 3— A Script Kiddie Diary in v8 Exploit Research Part 2](https://medium.com/@INTfinitySG/miscellaneous-series-3-a-script-kiddie-diary-in-v8-exploit-research-part-2-585bd3f0a833)
@@ -82,7 +83,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
 - [[2025/09/10] - Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer](https://qriousec.github.io/post/oob-angle/)
 - [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
-- [[2024/10/05] - Google Chrome RCE (no sandbox) via CanonicalEquality::EqualValueType()](https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
