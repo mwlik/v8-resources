@@ -40,6 +40,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2021/10/05] - Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article)
 - [[2021/12/28] - V8 Heap pwn and /dev/memes - WebOS Root LPE](https://www.da.vidbuchanan.co.uk/blog/webos-wampage.html)
 - [[2022/01/23] - Fuzzing Chromes JavaScript Engine v8](https://apt29a.blogspot.com/2022/01/fuzzing-chromes-javascript-engine-v8.html)
+- [[2022/02/01] - Speeding up Javascript addition](https://www.kvakil.me/posts/quicker_smi_add_v8.html)
 - [[2022/05/20] - Rooting Samsung Q60T Smart TV](https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf)
 - [[2022/07/28] - JavaScript Bytecode – v8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188)
 - [[2022/08/29] - Understand WebAssembly in One Article](https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282)
