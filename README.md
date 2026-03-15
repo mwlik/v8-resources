@@ -89,7 +89,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
-## Official Blogs
+## Official Blog/Docs
 
 - [[2015/09/25] - Custom startup snapshots](https://v8.dev/blog/custom-startup-snapshots)
 - [[2015/12/17] - There’s Math.random(), and then there’s Math.random()](https://v8.dev/blog/math-random)
@@ -120,6 +120,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[####/##/##] - Investigating memory leaks](https://v8.dev/docs/memory-leaks)
 - [[####/##/##] - The Rule Of 2](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rule-of-2.md)
 - [[####/##/##] - CHECK(), DCHECK() and NOTREACHED()](https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/checks.md)
+- [[####/##/##] - Debugging over the V8 Inspector Protocol](https://v8.dev/docs/inspector)
 
 ## CVEs Walkthrough
 
