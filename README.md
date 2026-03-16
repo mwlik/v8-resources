@@ -152,6 +152,8 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/08/##] - mistymntncop's CVE-2025-6554 Analysis](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
 - [[2025/10/05] - mistymntncop's CVE-2025-6554: 3rd Hole Exploitation Technique Analysis](https://github.com/mistymntncop/CVE-2025-6554/blob/main/exploit.js)
 - [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
+- [[2026/02/24] - CVE-2025-5959 and more (Part 1)](https://yichenchai.com/blog/v8-cve-2025-5959-chall)
+- [[2026/02/26] - CVE-2025-5959 and more (Part 2)](https://yichenchai.com/blog/v8-cve-2025-5959-chall-2)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
@@ -235,6 +237,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/05/14] - DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank)
 - [[2025/06/05] - Advanced CTF Challenge Write-up: "Chrome Sandbox Escape via V8 JIT Compiler Vulnerability"](https://blog.csdn.net/2402_86373248/article/details/148432633)
 - [[2025/09/08] - ASIS CTF 2025 Quals - RandomJS](https://deayzl.tistory.com/entry/ASIS-CTF-2025-Quals-RandomJS-writeup)
+- [[2025/09/30] - TISC 2025 - SpectreChrome](https://gerrardtai.com/tisc25-level12)
 - [[2025/10/07] - zolutal's Securinets Quals 2025: Sukunahikona](https://blog.zolutal.io/securinets-sukunahikona/)
 - [[2025/10/11] - Securinets Quals 2025 - Sukunahikona](https://nordrljos.dev/CTFs/2025/securinets)
 - [[2025/10/17] - TISC CSIT Challenge 8 — Super "Optimised" Swap](https://github.com/glendakoh/tisc2025-csit/blob/main/challenge8.md)
