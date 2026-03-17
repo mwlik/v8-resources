@@ -17,6 +17,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2016/12/13] - Theori's Chakra JIT CFG Bypass](https://theori.io/blog/chakra-jit-cfg-bypass)
 - [[2017/03/01] - V8: Behind the Scenes (February Edition feat. A tale of TurboFan)](https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition)
 - [[2017/08/16] - Understanding V8’s Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+- [[2017/11/28] - An Introduction to Speculative Optimization in V8](https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8)
 - [[2018/06/05] - A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/)
 - [[2018/12/08] - All Functions are Closures: Discussing Scope and Closure in JS](https://blog.huli.tw/2018/12/08/en/javascript-closure/)
 - [[2019/01/22] - Exploiting the Magellan bug on 64-bit Chrome Desktop](https://blog.exodusintel.com/2019/01/22/exploiting-the-magellan-bug-on-64-bit-chrome-desktop/)
