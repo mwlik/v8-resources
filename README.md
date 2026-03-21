@@ -28,6 +28,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2019/08/06] - V8 function optimization](https://erdem.pl/2019/08/v-8-function-optimization)
 - [[2019/08/28] - Notes about GraphReducer in V8](https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html)
 - [[2019/08/28] - Redundancy Elimination Reducer in V8 and 34C3 CTF V9](https://mem2019.github.io/jekyll/update/2019/08/28/V8-Redundancy-Elimination.html)
+- [[2020/01/27] - Visualizing memory management in V8 Engine](https://deepu.tech/memory-management-in-v8/)
 - [[2020/02/##] - Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html)
 - [[2020/04/19] - Theori's Cleanly Escaping the Chrome Sandbox](https://theori.io/blog/cleanly-escaping-the-chrome-sandbox)
 - [[2020/08/27] - V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df)
