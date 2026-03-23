@@ -92,6 +92,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
 - [[2026/01/28] - V8 GC](https://ruik.ai/blog/2f523395-590c-80d9-b999-dcf7ec803648)
 - [[2026/02/04] - How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
+- [[2026/03/19] - 303f06e3's Maglev's handling of target and new.target is incorrect](https://issues.chromium.org/issues/467247247)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
