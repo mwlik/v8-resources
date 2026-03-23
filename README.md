@@ -80,6 +80,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/03/16] - V8 Debugging Note](https://blog.seokho.dev/development/2025/03/16/V8-debugging-note.html)
 - [[2025/04/06] - V8 Explicit Compile Hints with Magic Comments](https://blog.seokho.dev/development/2025/04/06/V8-ExplicitCompileHintsWithMagicComments.html)
 - [[2025/04/11] - Intro V8](https://w1redch4d.github.io/post/intro-v8/)
+- [[2025/04/11] - 303f06e3's Incorrect node replacement optimization during Maglev graph construction leads to RCE](https://issues.chromium.org/issues/386565144)
 - [[2025/04/12] - Compiler Design 1](https://w1redch4d.github.io/post/compiler-design-1/)
 - [[2025/04/12] - Compiler Design Principles in V8](https://w1redch4d.github.io/post/compiler-design-principles-in-v8/)
 - [[2025/04/13] - Lexical Analysis](https://w1redch4d.github.io/post/lexical-analysis/)
