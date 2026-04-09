@@ -95,6 +95,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/02/04] - How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
 - [[2026/03/19] - 303f06e3's Maglev's handling of target and new.target is incorrect](https://issues.chromium.org/issues/467247247)
 - [[2026/03/24] - Teaching gdb to Unwind V8 JIT Frames on x64](https://joyeecheung.github.io/blog/2026/03/24/teaching-gdb-to-unwind-v8-jit-frames-on-x64/)
+- [[2026/03/24] - Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8](https://nodejs.org/en/blog/vulnerability/march-2026-hashdos)
 - [[2026/04/01] - Patch Gap to Mobile Renderer RCE: Pwning Samsung Internet's V8 on the Galaxy S25](https://osec.io/blog/2026-04-01-patch-gap-to-mobile-renderer-rce/)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 - [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
