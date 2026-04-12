@@ -165,6 +165,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
 - [[2026/02/24] - CVE-2025-5959 and more (Part 1)](https://yichenchai.com/blog/v8-cve-2025-5959-chall)
 - [[2026/02/26] - CVE-2025-5959 and more (Part 2)](https://yichenchai.com/blog/v8-cve-2025-5959-chall-2)
+- [[2026/03/28] - CVE-2025-14325: SpiderMonkey Type Confusion in Baseline JIT Inline Cache](https://qriousec.github.io/post/cve-2025-14325/)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
