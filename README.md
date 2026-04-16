@@ -266,6 +266,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/12/12] - Mimic 2025 - Cherry](https://leo1.cc/posts/writeups/mimic25-cherry/)
 - [[2025/12/30] - ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
 - [[2026/01/03] - deayzl's ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
+- [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
 
 ## Papers
 
