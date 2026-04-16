@@ -167,6 +167,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/02/26] - CVE-2025-5959 and more (Part 2)](https://yichenchai.com/blog/v8-cve-2025-5959-chall-2)
 - [[2026/03/28] - CVE-2025-14325: SpiderMonkey Type Confusion in Baseline JIT Inline Cache](https://qriousec.github.io/post/cve-2025-14325/)
 - [[2026/04/01] - CVE-2026-0899: CHECK Removed, Context Confused, Checkmate Achieved](https://starlabs.sg/blog/2026/04-check-removed-context-confused-checkmate-achieved/)
+- [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
@@ -266,7 +267,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/12/12] - Mimic 2025 - Cherry](https://leo1.cc/posts/writeups/mimic25-cherry/)
 - [[2025/12/30] - ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
 - [[2026/01/03] - deayzl's ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
-- [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
 
 ## Papers
 
