@@ -268,6 +268,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/12/12] - Mimic 2025 - Cherry](https://leo1.cc/posts/writeups/mimic25-cherry/)
 - [[2025/12/30] - ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
 - [[2026/01/03] - deayzl's ASIS CTF Finals 2025 - Singleton](https://kqx.io/writeups/singleton/)
+- [[2026/04/26] - TRX CTF 2026 triforce Writeup)[https://blog.rawpayload.com/blog/trx-ctf-2026-triforce-writeup]
 
 ## Papers
 
