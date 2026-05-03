@@ -119,6 +119,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/03/30] - Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
 - [[2023/10/09] - Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 - [[2023/11/01] - A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
+- [[2023/12/05] - Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 - [[2023/12/14] - V8 is Faster and Safer than Ever!](https://v8.dev/blog/holiday-season-2023)
 - [[2024/04/04] - The V8 Sandbox](https://v8.dev/blog/sandbox)
 - [[2025/03/25] - Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
