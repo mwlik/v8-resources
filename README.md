@@ -90,6 +90,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/07/18] - 101 Chrome Exploitation — Part 0: Preface](https://opzero.ru/en/press/101-chrome-exploitation-part-0-preface/)
 - [[2025/08/22] - DEFCON is fun, finding a V8 bug is even more fun](https://xia0.sh/blog/maglev-deopt)
 - [[2025/09/10] - Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer](https://qriousec.github.io/post/oob-angle/)
+- [[2025/10/XX] - One‑Click Memory Corruption in Alibaba’s UC Browser: Exploiting patch-gap V8 vulnerabilities to steal your data](https://www.interruptlabs.co.uk/articles/one-click-memory-corruption-in-alibabas-uc-browser-exploiting-patch-gap-v8-vulnerabilities-to-steal-your-data)
 - [[2025/10/01] - 101 Chrome Exploitation — Part 1: Architecture](https://opzero.ru/en/press/101-chrome-exploitation-part-1-architecture/)
 - [[2026/01/28] - V8 GC](https://ruik.ai/blog/2f523395-590c-80d9-b999-dcf7ec803648)
 - [[2026/02/04] - How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
