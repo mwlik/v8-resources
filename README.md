@@ -240,6 +240,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/02/06] - DiceCTF 2022 - memory hole](https://blog.kylebot.net/2022/02/06/DiceCTF-2022-memory-hole/)
 - [[2022/02/06] - Dice CTF Memory Hole: Breaking V8 Heap Sandbox](https://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html)
 - [[2022/07/03] - Google CTF 2022 d8: From V8 Bytecode to Code Execution](https://mem2019.github.io/jekyll/update/2022/07/03/Google-CTF.html)
+- [[2022/07/18] - Riatre's Google CTF 2022 - d8 Writeup](https://gist.github.com/Riatre/83d5fdb970946c8e185c5e1b2b842b1b#)
 - [[2022/09/08] - HackTheBox Business CTF 2022 - Midenios](https://vuln.dev/browser-exploitation-firefox-oob-to-rce/)
 - [[2022/11/28] - HITCON CTF 2022 - Fourchain - Browser](https://bruce30262.github.io/hitcon-ctf-2022-fourchain-browser/)
 - [[2022/12/24] - KITCTFCTF 2022 V8 Heap Sandbox Escape](https://ju256.de/posts/kitctfctf22-date/)
