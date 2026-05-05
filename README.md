@@ -277,6 +277,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## Papers
 
+- [[1991/10/01] - Efficiently Computing Static Single Assignment Form and the Control Dependence Graph](https://dl.acm.org/doi/epdf/10.1145/115372.115320)
 - [[2013/10/28] - An Intermediate Representation for Speculative Optimizations in a Dynamic Compiler](https://dl.acm.org/doi/10.1145/2542142.2542143)
 - [[2014/06/12] - Allocation Folding Based on Dominance](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/42478.pdf)
 - [[2015/##/##] - The Security Architecture of the Chromium Browser](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
