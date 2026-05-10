@@ -172,6 +172,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/03/30] - Fuzzing to Zero-Day: Pwning V8CTF With TurboFan Type Confusion, CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/)
 - [[2026/04/01] - CVE-2026-0899: CHECK Removed, Context Confused, Checkmate Achieved](https://starlabs.sg/blog/2026/04-check-removed-context-confused-checkmate-achieved/)
 - [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
+- [[2026/05/07] - How an Omitted Write Barrier in V8 Turns Into RCE in Chrome: CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
