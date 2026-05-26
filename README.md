@@ -102,7 +102,6 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/04/15] - I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit)
 - [[2026/04/21] - Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
-- [[####/##/##] - V8 Overview](https://deepwiki.com/v8/v8)
 
 ## Official Blog/Docs
 
