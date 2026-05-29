@@ -124,6 +124,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2023/12/05] - Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 - [[2023/12/14] - V8 is Faster and Safer than Ever!](https://v8.dev/blog/holiday-season-2023)
 - [[2024/04/04] - The V8 Sandbox](https://v8.dev/blog/sandbox)
+- [[2024/07/01] - Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi#fnref5)
 - [[2025/03/25] - Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 - [[2025/05/09] - JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 - [[####/##/##] - Maps (Hidden Classes) in V8](https://v8.dev/docs/hidden-classes)
