@@ -143,6 +143,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2021/06/09] - CVE-2021-30551: Chrome Type Confusion in V8](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30551.html)
 - [[2021/08/16] - Exploiting CVE-2021-21225 and disabling W^X](https://tiszka.com/blog/CVE_2021_21225_exploit.html)
 - [[2021/08/16] - A Bug's Life: CVE-2021-21225](https://tiszka.com/blog/CVE_2021_21225.html)
+- [[2021/10/19] - Chrome in-the-wild bug analysis: CVE-2021-37975](https://github.blog/security/vulnerability-research/chrome-in-the-wild-bug-analysis-cve-2021-37975/)
 - [[2022/03/11] - Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability](https://connormcgarr.github.io/type-confusion-part-1/)
 - [[2022/06/12] - Root Cause Analysis of CVE-2021-21224](https://anvbis.au/posts/root-cause-analysis-of-cve-2021-21224/)
 - [[2022/06/29] - The Chromium super (inline cache) type confusion](https://github.blog/security/vulnerability-research/the-chromium-super-inline-cache-type-confusion/)
