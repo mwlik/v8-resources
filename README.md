@@ -229,6 +229,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/04/11] - WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
 - [[2025/05/20] - OffensiveCon25 - Richard Abou Chaaya and John Stephenson - Garbage Collection in V8](https://www.youtube.com/watch?v=sM2d0ciaeiI)
 - [[2025/12/22] - Alex Gough - Responding to an ITW Chrome Sandbox Escape (Twice!)](https://www.youtube.com/watch?v=mxN8puPTLCs)
+- [[2026/05/28] - OffensiveCon26 - sakura and R1nd0 - Enhanced Insecurity Mode: 23 RCEs in Edge's "Safe" WebAssembly Interpreter](https://www.youtube.com/watch?v=bYwE8NA5hqY)
 
 ## CTFs Writeups
 
