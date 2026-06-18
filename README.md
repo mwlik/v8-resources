@@ -209,6 +209,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2018/06/14] - JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018](https://youtu.be/5nmpokoRaZI?si=Ak_La989B_4s8E4k)
 - [[2018/08/16] - A Tale of Types, Classes, and Maps by Benedikt Meurer · JSCamp Barcelona 2018](https://www.youtube.com/watch?v=IFWulQnM5E0)
 - [[2018/11/06] - Orinoco: The new V8 Garbage Collector Peter Marshall](https://youtu.be/Scxz6jVS4Ls?feature=shared)
+- [[2019/04/10] - OffensiveCon19 - Samuel Groß - FuzzIL: Guided Fuzzing for JavaScript Engines](https://www.youtube.com/watch?v=OHjq9Y66yfc)
 - [[2020/01/15] - Attacking Client-Side JIT Compilers](https://www.youtube.com/watch?v=emt1yf2Fg9g)
 - [[2020/02/11] - Tobias Tebbi: V8 Torque: A Typed Language to Implement JavaScript](https://www.youtube.com/watch?v=YcroNGHHqtU)
 - [[2020/04/06] - Practical Exploitation of Math.random on V8](https://youtu.be/_Iv6fBrcbAM?feature=shared)
