@@ -227,6 +227,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/11/01] - Introduction to JavaScript and V8 for Browser Exploitation](https://www.youtube.com/watch?v=ctKCfXOgZ-M)
 - [[2023/12/19] - The Hat Trick: Exploit Chrome Twice from Runtime to JIT](https://www.youtube.com/watch?v=TSHwVo2yBfg)
 - [[2025/02/21] - Chrome Browser Exploitation: from zero to heap sandbox escape - Matteo Malvica - NDC Security 2025](https://www.youtube.com/watch?v=RL2po1swXO4)
+- [[2025/03/29] - DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing (NDSS'25)](https://www.youtube.com/watch?v=tSAGgcyufps)
 - [[2025/04/11] - WebAssembly Is All You Need: Exploiting Chrome and the V8 Sandbox 10+ times with WASM](https://www.youtube.com/watch?v=nb1so4P-4J8)
 - [[2025/05/20] - OffensiveCon25 - Richard Abou Chaaya and John Stephenson - Garbage Collection in V8](https://www.youtube.com/watch?v=sM2d0ciaeiI)
 - [[2025/12/22] - Alex Gough - Responding to an ITW Chrome Sandbox Escape (Twice!)](https://www.youtube.com/watch?v=mxN8puPTLCs)
