@@ -153,6 +153,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/01/19] - Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution](https://blog.exodusintel.com/2024/01/19/google-chrome-v8-cve-2024-0517-out-of-bounds-write-code-execution/)
 - [[2024/05/02] - CVE-2024-2887: A Pwn2Own Winning Bug in Google Chrome](https://www.zerodayinitiative.com/blog/2024/5/2/cve-2024-2887-a-pwn2own-winning-bug-in-google-chrome)
 - [[2024/05/19] - CVE-2024-4947: v8 incorrect AccessInfo for module namespace object causes Maglev type confusion](https://buptsb.github.io/blog/post/CVE-2024-4947-%20v8%20incorrect%20AccessInfo%20for%20module%20namespace%20object%20causes%20Maglev%20type%20confusion.html)
+- [[2024/06/03] - Clobber the world — Endless side effect issue in Safari - CVE-2023–37450](https://medium.com/@enki-techblog/ios-16-5-1-safari-rce-analysis-cve-2023-37450-89bb8583bebc)
 - [[2024/06/26] - Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties](https://github.blog/security/vulnerability-research/attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/)
 - [[2024/08/13] - From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 - [[2024/08/14] - V8 CVE-2021-21224 Renderer RCE Root Cause Analysis](https://s1r1us.ninja/posts/v8-rca/)
