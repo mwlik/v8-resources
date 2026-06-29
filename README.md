@@ -205,6 +205,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 - [[2008/09/15] - V8: an open source JavaScript engine](https://youtu.be/hWhMKalEicY?feature=shared)
 - [[2009/06/02] - Google I/O 2009 - V8: ..High Performance JavaScript Engine](https://youtu.be/FrufJFBSoQY?feature=shared)
+- [[2014/02/06] - JavaScriptCore's DFG JIT (JSConf EU 2012)](https://www.youtube.com/watch?v=wylW3QWkrWc)
 - [[2014/10/29] - Empire Node - Compiler are our friends - Fedor Indutny](https://youtu.be/tf6YTgO6Org)
 - [[2017/05/16] - Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://youtu.be/p-iiEDtpy6I?si=9_dzr7djvr9rBYB2)
 - [[2017/05/18] - Marja Hölttä: Parsing JavaScript - better lazy than eager? | JSConf EU 2017](https://www.youtube.com/watch?v=Fg7niTmNNLg)
