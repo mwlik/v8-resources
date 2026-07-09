@@ -178,6 +178,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
 - [[2026/05/07] - How an Omitted Write Barrier in V8 Turns Into RCE in Chrome: CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/)
 - [[2026/06/03] - One of the many flaws of Phi untagging: CVE-2026-4447](https://kqx.io/post/cve-2026-4447/)
+- [[2026/06/29] - Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
