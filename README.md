@@ -140,6 +140,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 
 ## CVEs Walkthrough
 
+- [[2019/09/24] - JSC: GetterSetter type confusion during DFG compilation (CVE-2019-8765)](https://project-zero.issues.chromium.org/issues/42451006)
 - [[2021/06/09] - CVE-2021-30551: Chrome Type Confusion in V8](https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2021/CVE-2021-30551.html)
 - [[2021/08/16] - Exploiting CVE-2021-21225 and disabling W^X](https://tiszka.com/blog/CVE_2021_21225_exploit.html)
 - [[2021/08/16] - A Bug's Life: CVE-2021-21225](https://tiszka.com/blog/CVE_2021_21225.html)
