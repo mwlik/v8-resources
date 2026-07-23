@@ -172,6 +172,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/10/05] - mistymntncop's CVE-2025-6554: 3rd Hole Exploitation Technique Analysis](https://github.com/mistymntncop/CVE-2025-6554/blob/main/exploit.js)
 - [[2025/10/07] - CVE-2025-6554: The (rabbit) Hole](https://retr0.zip/blog/cve-2025-6554-the-rabbit-hole.html)
 - [[2026/01/06] - WebKit's CVE-2025-43529](https://github.com/jir4vv1t/CVE-2025-43529)
+- [[2026/02/01] - WebKit's CVE-2025-43529 Analysis](https://github.com/bjrjk/CVE-2025-43529/blob/main/CVE-2025-43529.pdf)
 - [[2026/02/24] - CVE-2025-5959 and more (Part 1)](https://yichenchai.com/blog/v8-cve-2025-5959-chall)
 - [[2026/02/26] - CVE-2025-5959 and more (Part 2)](https://yichenchai.com/blog/v8-cve-2025-5959-chall-2)
 - [[2026/03/28] - CVE-2025-14325: SpiderMonkey Type Confusion in Baseline JIT Inline Cache](https://qriousec.github.io/post/cve-2025-14325/)
