@@ -31,6 +31,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2020/01/27] - Visualizing memory management in V8 Engine](https://deepu.tech/memory-management-in-v8/)
 - [[2020/02/##] - Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html)
 - [[2020/04/19] - Theori's Cleanly Escaping the Chrome Sandbox](https://theori.io/blog/cleanly-escaping-the-chrome-sandbox)
+- [[2020/07/29] - Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
 - [[2020/08/27] - V8 Deep Dives: Understanding Map Internals](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df)
 - [[2020/11/17] - Modern attacks on the Chrome browser : optimizations and deoptimizations](https://doar-e.github.io/blog/2020/11/17/modern-attacks-on-the-chrome-browser-optimizations-and-deoptimizations/)
 - [[2020/12/12] - Implement the &lt;select&gt; should be affected by custom scrollbar tags](https://blog.seokho.dev/chromium/2020/12/12/ChromiumCustomscrollbarForSelect.html)
