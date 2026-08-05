@@ -168,6 +168,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2025/05/08] - 303f06e3's CVE-2025-0445 Incorrect WriteBarrier Optimization in ObjectAssign FastPath Leads to Exploitable UAF Vulnerability](https://issues.chromium.org/issues/392521083)
 - [[2025/06/20] - Linz's CVE-2025-5959 Analysis](https://linz04.github.io/2025/06/20/CVE-2025-5959/)
 - [[2025/08/01] - P0ch1ta's CVE-2025-2135 Analysis](https://keksite.in/posts/CVE-2025-2135/)
+- [[2025/08/04] - Oops Safari, I think You Spilled Something! (CVE-2024-44308)](https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/)
 - [[2025/08/##] - mistymntncop's CVE-2025-5419 Analysis](https://github.com/mistymntncop/CVE-2025-5419/blob/main/exploit.js)
 - [[2025/08/##] - mistymntncop's CVE-2025-6554 Analysis](https://gist.github.com/mistymntncop/37c652c2bf7373b4aa33bb50f52ee0f2)
 - [[2025/10/05] - mistymntncop's CVE-2025-6554: 3rd Hole Exploitation Technique Analysis](https://github.com/mistymntncop/CVE-2025-6554/blob/main/exploit.js)
