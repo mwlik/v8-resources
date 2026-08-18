@@ -47,6 +47,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2022/03/19] - Firefox and Chromium](https://madaidans-insecurities.github.io/firefox-chromium.html)
 - [[2022/05/20] - Rooting Samsung Q60T Smart TV](https://www.synacktiv.com/sites/default/files/2022-05/Sthack2022_Rooting_Samsung_Q60T_Smart_TV.pdf)
 - [[2022/07/28] - JavaScript Bytecode – v8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188)
+- [[2022/07/29] - Understanding Garbage Collection in JavaScriptCore From Scratch](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [[2022/08/29] - Understand WebAssembly in One Article](https://www.alibabacloud.com/blog/understand-webassembly-in-one-article_599282)
 - [[2022/09/20] - From Leaking TheHole to Chrome Renderer RCE](https://medium.com/numen-cyber-labs/from-leaking-thehole-to-chrome-renderer-rce-183dcb6f3078)
 - [[2022/10/22] - Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals](https://jhalon.github.io/chrome-browser-exploitation-1/)
