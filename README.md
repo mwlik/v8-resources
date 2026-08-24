@@ -256,6 +256,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2019/01/02] - Exploiting Chrome V8: Krautflare (35C3 CTF 2018)](https://www.jaybosamiya.com/blog/2019/01/02/krautflare/)
 - [[2019/01/02] - Exploiting the Math.expm1 typing bug in V8](https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/)
 - [[2019/01/28] - Introduction to TurboFan](https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/)
+- [[2019/12/13] - Hack The Real: An exploitation chain to break the Safari browser](https://gts3.org/2019/Real-World-CTF-2019-Safari.html)
 - [[2019/12/13] - Exploiting v8: \*CTF 2019 oob-v8](https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/)
 - [[2020/09/28] - DownUnderCTF 2020: Is this pwn or web?](https://seb-sec.github.io/2020/09/28/ductf2020-pwn-or-web.html)
 - [[2021/04/06] - Turboflan PicoCTF 2021 Writeup (v8 + introductory turbofan pwnable)](https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html)
