@@ -102,6 +102,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/03/24] - Teaching gdb to Unwind V8 JIT Frames on x64](https://joyeecheung.github.io/blog/2026/03/24/teaching-gdb-to-unwind-v8-jit-frames-on-x64/)
 - [[2026/03/24] - Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8](https://nodejs.org/en/blog/vulnerability/march-2026-hashdos)
 - [[2026/04/01] - Patch Gap to Mobile Renderer RCE: Pwning Samsung Internet's V8 on the Galaxy S25](https://osec.io/blog/2026-04-01-patch-gap-to-mobile-renderer-rce/)
+- [[2026/04/08] - V8 Sandbox Bypass: Compiler-Eliminated CPT Tag Check](https://issues.chromium.org/issues/500771385)
 - [[2026/04/15] - I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit)
 - [[2026/04/21] - Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
