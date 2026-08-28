@@ -189,6 +189,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/05/07] - How an Omitted Write Barrier in V8 Turns Into RCE in Chrome: CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/)
 - [[2026/06/03] - One of the many flaws of Phi untagging: CVE-2026-4447](https://kqx.io/post/cve-2026-4447/)
 - [[2026/06/29] - Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
+- [[2026/08/27] - Check Your Motor Oil Before Turbocharging: CVE-2026-7899, When V8's Optimization Engine Builds Up Carbon](https://nebusec.ai/research/v8-turboshaft-wasm-phiop-cve-2026-7899/)
 - [[####/##/##] - CVE-2024-0517 (Out of Bounds Write in V8)](https://cwresearchlab.co.kr/entry/CVE-2024-0517-Out-of-Bounds-Write-in-V8?category=1154737)
 
 ## Presentations
