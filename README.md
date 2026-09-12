@@ -105,6 +105,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/04/08] - V8 Sandbox Bypass: Compiler-Eliminated CPT Tag Check](https://issues.chromium.org/issues/500771385)
 - [[2026/04/15] - I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit)
 - [[2026/04/21] - Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html)
+- [[2026/09/07] - Out of Bounds, Out of Sandbox: RCE in Go JavaScript Engine](https://www.slcyber.io/research/out-of-bounds-out-of-sandbox-rce-goja#remote-code-execution-on-zendesk)
 - [[####/##/##] - d0ublew's V8 Internals 101](https://d0ublew.github.io/notes/pwn/v8/index.html)
 
 ## Official Blog/Docs
