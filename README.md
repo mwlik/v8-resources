@@ -305,6 +305,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/04/25] - kqx's triforce - TRX CTF Quals 2026](https://kqx.io/writeups/triforce/)
 - [[2026/04/25] - kqx's triforce-sbx - TRX CTF Quals 2026](https://kqx.io/writeups/triforce-sbx/)
 - [[2026/04/26] - TRX CTF 2026 triforce Writeup](https://blog.rawpayload.com/blog/trx-ctf-2026-triforce-writeup)
+- [[2026/09/08] - HITCON 2024 ljp_tw's challenge](https://davi1337.gitbook.io/public/hitcon-2024)
 
 ## Papers
 
