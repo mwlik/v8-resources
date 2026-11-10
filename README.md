@@ -188,6 +188,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
 - [[2026/04/15] - WebKit's CVE-2024-23222 (Cassowary)](https://github.com/califio/publications/blob/main/MADBugs/coruna/Stage1-writeup.md)
 - [[2026/05/14] - CVE-2026-13776: Potential command stream desynchronization in Dawn via transient OOM in ExecuteBundles](https://issues.chromium.org/issues/513012139)
+- [[2026/05/26] - CVE-2026-14417: Potential command stream desynchronization in CommandEncoder::APIWriteBuffer under transient OOM](https://issues.chromium.org/issues/516649133)
 - [[2026/05/28] - CVE-2026-14423: Vulkan driver interface mismatch due to divergent pixel-center polyfill locations](https://issues.chromium.org/issues/517522769)
 - [[2026/05/07] - How an Omitted Write Barrier in V8 Turns Into RCE in Chrome: CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/)
 - [[2026/06/03] - One of the many flaws of Phi untagging: CVE-2026-4447](https://kqx.io/post/cve-2026-4447/)
