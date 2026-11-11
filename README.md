@@ -191,6 +191,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/05/26] - CVE-2026-14417: Potential command stream desynchronization in CommandEncoder::APIWriteBuffer under transient OOM](https://issues.chromium.org/issues/516649133)
 - [[2026/05/27] - CVE-2026-14420: Bypass of Dawn's SSBO robustness checks via stage-filtering mismatch in OpenGL backend](https://issues.chromium.org/issues/517031505)
 - [[2026/05/28] - CVE-2026-14423: Vulkan driver interface mismatch due to divergent pixel-center polyfill locations](https://issues.chromium.org/issues/517522769)
+- [[2026/05/29] - CVE-2026-14424: Potential UAF on Metal backend via spontaneous OnBufferMapAsyncCallback racing DeviceDestroy](https://issues.chromium.org/issues/517692772)
 - [[2026/05/07] - How an Omitted Write Barrier in V8 Turns Into RCE in Chrome: CVE-2026-5865](https://nebusec.ai/research/v8-maglev-incorrect-phis-untagging/)
 - [[2026/06/03] - One of the many flaws of Phi untagging: CVE-2026-4447](https://kqx.io/post/cve-2026-4447/)
 - [[2026/06/29] - Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307](https://nebusec.ai/research/v8-cve-2026-6307-writeup/)
