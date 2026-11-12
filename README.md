@@ -186,6 +186,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2026/03/30] - Fuzzing to Zero-Day: Pwning V8CTF With TurboFan Type Confusion, CVE-2025-2135](https://www.zellic.io/blog/pwning-v8ctf/)
 - [[2026/04/01] - CVE-2026-0899: CHECK Removed, Context Confused, Checkmate Achieved](https://starlabs.sg/blog/2026/04-check-removed-context-confused-checkmate-achieved/)
 - [[2026/04/06] - CVE-2026–5283: Uninitialized GPU Memory Disclosure via Partial Clear in ANGLE (Chrome WebGL)](https://medium.com/@numencyberlabs/cve-2026-5283-uninitialized-gpu-memory-disclosure-via-partial-clear-in-angle-chrome-webgl-3740ca481149)
+- [[2026/04/14] - CVE-2026-14061: WebGPU timestamp quantization bypass on hardware with 1ns timestamp period](https://issues.chromium.org/issues/502434484)
 - [[2026/04/15] - WebKit's CVE-2024-23222 (Cassowary)](https://github.com/califio/publications/blob/main/MADBugs/coruna/Stage1-writeup.md)
 - [[2026/05/14] - CVE-2026-13776: Potential command stream desynchronization in Dawn via transient OOM in ExecuteBundles](https://issues.chromium.org/issues/513012139)
 - [[2026/05/26] - CVE-2026-14417: Potential command stream desynchronization in CommandEncoder::APIWriteBuffer under transient OOM](https://issues.chromium.org/issues/516649133)
