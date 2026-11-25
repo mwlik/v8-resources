@@ -71,6 +71,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/05/##] - From the Vulnerability to the Victory: A Chrome Renderer 1-Day Exploit’s Journey to v8CTF Glory](https://insuyun.github.io/publication/lee-v-8-ctf/)
 - [[2024/06/05] - An Introduction to Chrome Exploitation - Maglev Edition](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/)
 - [[2024/08/19] - Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
+- [[2024/08/29] - Undefined Shaders With Infinite Loop Leads to OOB Access in WebGPU](https://issues.chromium.org/issues/363052575)
 - [[2024/09/05] - Miscellaneous Series 2 — A Script Kiddie Diary in v8 Exploit Research Part 1](https://medium.com/@INTfinitySG/miscellaneous-series-2-a-script-kiddie-diary-in-v8-exploit-research-part-1-5b0bab211f5a)
 - [[2024/09/14] - Unprecedented: Porting the V8 Virtual Machine to Pure-Blood HarmonyOS](https://developer.jdcloud.com/article/4032)
 - [[2024/10/05] - Google Chrome RCE (no sandbox) via CanonicalEquality::EqualValueType()](https://ssd-disclosure.com/google-chrome-rce-no-sandbox-via-canonicalequalityequalvaluetype/)
