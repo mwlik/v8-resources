@@ -167,6 +167,7 @@ These are some resources I've gathered while trying to learn V8 internals (with 
 - [[2024/08/14] - CVE-2024-0517 Chrome V8 Out of Bounds Write](https://bnovkebin.github.io/blog/CVE-2024-0517/)
 - [[2024/08/30] - CVE-2024-5274: A Minor Flaw in V8 Parser Leading to Catastrophes](https://www.darknavy.org/blog/cve_2024_5274_a_minor_flaw_in_v8_parser_leading_to_catastrophes/)
 - [[2024/09/19] - Zooming in on CVE‑2024‑7965](https://bi.zone/eng/expertise/blog/analiz-uyazvimosti-cve-2024-7965/)
+- [[2024/10/07] - CVE-2024-11920 out of bounds access on the GPU because of UB inside side-effect free infinite loop](https://issues.chromium.org/issues/371840056)
 - [[2024/11/14] - Firefox Animation CVE-2024-9680](https://dimitrifourny.github.io/2024/11/14/firefox-animation-cve-2024-9680.html)
 - [[2024/12/12] - 303f06e3's CVE-2024-12695 Incorrect implementation of the fast path in Object.assign() lead to memory corruption](https://issues.chromium.org/issues/383647255)
 - [[2025/03/14] - 303f06e3's CVE-2024-12693 Array out-of-bounds access vulnerability in the maglev phi untagging optimization](https://issues.chromium.org/issues/382190919)
